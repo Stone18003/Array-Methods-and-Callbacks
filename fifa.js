@@ -1,5 +1,4 @@
-export const fifaData = [
-  {
+export const fifaData = [{
     "Year": 1930,
     "Datetime": "13 Jul 1930 - 15:00",
     "Stage": "Group 1",
@@ -20,8 +19,7 @@ export const fifaData = [
     "MatchID": 1096,
     "Home Team Initials": "FRA",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "13 Jul 1930 - 15:00",
     "Stage": "Group 4",
@@ -42,8 +40,7 @@ export const fifaData = [
     "MatchID": 1090,
     "Home Team Initials": "USA",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "14 Jul 1930 - 12:45",
     "Stage": "Group 2",
@@ -64,8 +61,7 @@ export const fifaData = [
     "MatchID": 1093,
     "Home Team Initials": "YUG",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "14 Jul 1930 - 14:50",
     "Stage": "Group 3",
@@ -86,8 +82,7 @@ export const fifaData = [
     "MatchID": 1098,
     "Home Team Initials": "ROU",
     "Away Team Initials": "PER"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "15 Jul 1930 - 16:00",
     "Stage": "Group 1",
@@ -108,8 +103,7 @@ export const fifaData = [
     "MatchID": 1085,
     "Home Team Initials": "ARG",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "16 Jul 1930 - 14:45",
     "Stage": "Group 1",
@@ -130,8 +124,7 @@ export const fifaData = [
     "MatchID": 1095,
     "Home Team Initials": "CHI",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "17 Jul 1930 - 12:45",
     "Stage": "Group 2",
@@ -152,8 +145,7 @@ export const fifaData = [
     "MatchID": 1092,
     "Home Team Initials": "YUG",
     "Away Team Initials": "BOL"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "17 Jul 1930 - 14:45",
     "Stage": "Group 4",
@@ -174,8 +166,7 @@ export const fifaData = [
     "MatchID": 1097,
     "Home Team Initials": "USA",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "18 Jul 1930 - 14:30",
     "Stage": "Group 3",
@@ -196,8 +187,7 @@ export const fifaData = [
     "MatchID": 1099,
     "Home Team Initials": "URU",
     "Away Team Initials": "PER"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "19 Jul 1930 - 12:50",
     "Stage": "Group 1",
@@ -218,8 +208,7 @@ export const fifaData = [
     "MatchID": 1094,
     "Home Team Initials": "CHI",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "19 Jul 1930 - 15:00",
     "Stage": "Group 1",
@@ -240,8 +229,7 @@ export const fifaData = [
     "MatchID": 1086,
     "Home Team Initials": "ARG",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "20 Jul 1930 - 13:00",
     "Stage": "Group 2",
@@ -262,8 +250,7 @@ export const fifaData = [
     "MatchID": 1091,
     "Home Team Initials": "BRA",
     "Away Team Initials": "BOL"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "20 Jul 1930 - 15:00",
     "Stage": "Group 4",
@@ -284,8 +271,7 @@ export const fifaData = [
     "MatchID": 1089,
     "Home Team Initials": "PAR",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "21 Jul 1930 - 14:50",
     "Stage": "Group 3",
@@ -306,8 +292,7 @@ export const fifaData = [
     "MatchID": 1100,
     "Home Team Initials": "URU",
     "Away Team Initials": "ROU"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "22 Jul 1930 - 14:45",
     "Stage": "Group 1",
@@ -328,8 +313,7 @@ export const fifaData = [
     "MatchID": 1084,
     "Home Team Initials": "ARG",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "26 Jul 1930 - 14:45",
     "Stage": "Semi-finals",
@@ -350,8 +334,7 @@ export const fifaData = [
     "MatchID": 1088,
     "Home Team Initials": "ARG",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "27 Jul 1930 - 14:45",
     "Stage": "Semi-finals",
@@ -372,8 +355,7 @@ export const fifaData = [
     "MatchID": 1101,
     "Home Team Initials": "URU",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1930,
     "Datetime": "30 Jul 1930 - 14:15",
     "Stage": "Final",
@@ -394,8 +376,7 @@ export const fifaData = [
     "MatchID": 1087,
     "Home Team Initials": "URU",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "27 May 1934 - 16:30",
     "Stage": "Preliminary round",
@@ -416,8 +397,7 @@ export const fifaData = [
     "MatchID": 1104,
     "Home Team Initials": "AUT",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "27 May 1934 - 16:30",
     "Stage": "Preliminary round",
@@ -438,8 +418,7 @@ export const fifaData = [
     "MatchID": 1119,
     "Home Team Initials": "HUN",
     "Away Team Initials": "EGY"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "27 May 1934 - 16:30",
     "Stage": "Preliminary round",
@@ -460,8 +439,7 @@ export const fifaData = [
     "MatchID": 1133,
     "Home Team Initials": "SUI",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "27 May 1934 - 16:30",
     "Stage": "Preliminary round",
@@ -482,8 +460,7 @@ export const fifaData = [
     "MatchID": 1102,
     "Home Team Initials": "SWE",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "27 May 1934 - 16:30",
     "Stage": "Preliminary round",
@@ -504,8 +481,7 @@ export const fifaData = [
     "MatchID": 1108,
     "Home Team Initials": "GER",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "27 May 1934 - 16:30",
     "Stage": "Preliminary round",
@@ -526,8 +502,7 @@ export const fifaData = [
     "MatchID": 1111,
     "Home Team Initials": "ESP",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "27 May 1934 - 16:30",
     "Stage": "Preliminary round",
@@ -548,8 +523,7 @@ export const fifaData = [
     "MatchID": 1135,
     "Home Team Initials": "ITA",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "27 May 1934 - 16:30",
     "Stage": "Preliminary round",
@@ -570,8 +544,7 @@ export const fifaData = [
     "MatchID": 1141,
     "Home Team Initials": "TCH",
     "Away Team Initials": "ROU"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "31 May 1934 - 16:30",
     "Stage": "Quarter-finals",
@@ -592,8 +565,7 @@ export const fifaData = [
     "MatchID": 1143,
     "Home Team Initials": "TCH",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "31 May 1934 - 16:30",
     "Stage": "Quarter-finals",
@@ -614,8 +586,7 @@ export const fifaData = [
     "MatchID": 1129,
     "Home Team Initials": "GER",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "31 May 1934 - 16:30",
     "Stage": "Quarter-finals",
@@ -636,8 +607,7 @@ export const fifaData = [
     "MatchID": 1122,
     "Home Team Initials": "ITA",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "31 May 1934 - 16:30",
     "Stage": "Quarter-finals",
@@ -658,8 +628,7 @@ export const fifaData = [
     "MatchID": 1106,
     "Home Team Initials": "AUT",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "01 Jun 1934 - 16:30",
     "Stage": "Quarter-finals",
@@ -680,8 +649,7 @@ export const fifaData = [
     "MatchID": 1123,
     "Home Team Initials": "ITA",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "03 Jun 1934 - 16:30",
     "Stage": "Semi-finals",
@@ -702,8 +670,7 @@ export const fifaData = [
     "MatchID": 1107,
     "Home Team Initials": "ITA",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "03 Jun 1934 - 16:30",
     "Stage": "Semi-finals",
@@ -724,8 +691,7 @@ export const fifaData = [
     "MatchID": 1130,
     "Home Team Initials": "TCH",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "07 Jun 1934 - 18:00",
     "Stage": "Match for third place",
@@ -746,8 +712,7 @@ export const fifaData = [
     "MatchID": 1105,
     "Home Team Initials": "GER",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1934,
     "Datetime": "10 Jun 1934 - 17:30",
     "Stage": "Final",
@@ -768,8 +733,7 @@ export const fifaData = [
     "MatchID": 1134,
     "Home Team Initials": "ITA",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "04 Jun 1938 - 17:00",
     "Stage": "First round",
@@ -790,8 +754,7 @@ export const fifaData = [
     "MatchID": 1165,
     "Home Team Initials": "SUI",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "05 Jun 1938 - 17:00",
     "Stage": "First round",
@@ -812,8 +775,7 @@ export const fifaData = [
     "MatchID": 1173,
     "Home Team Initials": "HUN",
     "Away Team Initials": "INH"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "05 Jun 1938 - 17:00",
     "Stage": "First round",
@@ -834,8 +796,7 @@ export const fifaData = [
     "MatchID": 1146,
     "Home Team Initials": "FRA",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "05 Jun 1938 - 17:00",
     "Stage": "First round",
@@ -856,8 +817,7 @@ export const fifaData = [
     "MatchID": 1156,
     "Home Team Initials": "CUB",
     "Away Team Initials": "ROU"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "05 Jun 1938 - 17:00",
     "Stage": "First round",
@@ -878,8 +838,7 @@ export const fifaData = [
     "MatchID": 1179,
     "Home Team Initials": "ITA",
     "Away Team Initials": "NOR"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "05 Jun 1938 - 17:30",
     "Stage": "First round",
@@ -900,8 +859,7 @@ export const fifaData = [
     "MatchID": 1150,
     "Home Team Initials": "BRA",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "05 Jun 1938 - 18:30",
     "Stage": "First round",
@@ -922,8 +880,7 @@ export const fifaData = [
     "MatchID": 1172,
     "Home Team Initials": "TCH",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "09 Jun 1938 - 18:00",
     "Stage": "First round",
@@ -944,8 +901,7 @@ export const fifaData = [
     "MatchID": 1157,
     "Home Team Initials": "CUB",
     "Away Team Initials": "ROU"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "09 Jun 1938 - 18:00",
     "Stage": "First round",
@@ -966,8 +922,7 @@ export const fifaData = [
     "MatchID": 1166,
     "Home Team Initials": "SUI",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "12 Jun 1938 - 17:00",
     "Stage": "Quarter-finals",
@@ -988,8 +943,7 @@ export const fifaData = [
     "MatchID": 1152,
     "Home Team Initials": "BRA",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "12 Jun 1938 - 17:00",
     "Stage": "Quarter-finals",
@@ -1010,8 +964,7 @@ export const fifaData = [
     "MatchID": 1175,
     "Home Team Initials": "HUN",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "12 Jun 1938 - 17:00",
     "Stage": "Quarter-finals",
@@ -1032,8 +985,7 @@ export const fifaData = [
     "MatchID": 1158,
     "Home Team Initials": "SWE",
     "Away Team Initials": "CUB"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "12 Jun 1938 - 17:00",
     "Stage": "Quarter-finals",
@@ -1054,8 +1006,7 @@ export const fifaData = [
     "MatchID": 1164,
     "Home Team Initials": "ITA",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "14 Jun 1938 - 18:00",
     "Stage": "Quarter-finals",
@@ -1076,8 +1027,7 @@ export const fifaData = [
     "MatchID": 1153,
     "Home Team Initials": "BRA",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "16 Jun 1938 - 18:00",
     "Stage": "Semi-finals",
@@ -1098,8 +1048,7 @@ export const fifaData = [
     "MatchID": 1176,
     "Home Team Initials": "HUN",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "16 Jun 1938 - 18:00",
     "Stage": "Semi-finals",
@@ -1120,8 +1069,7 @@ export const fifaData = [
     "MatchID": 1149,
     "Home Team Initials": "ITA",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "19 Jun 1938 - 17:00",
     "Stage": "Match for third place",
@@ -1142,8 +1090,7 @@ export const fifaData = [
     "MatchID": 1151,
     "Home Team Initials": "BRA",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1938,
     "Datetime": "19 Jun 1938 - 17:00",
     "Stage": "Final",
@@ -1164,8 +1111,7 @@ export const fifaData = [
     "MatchID": 1174,
     "Home Team Initials": "ITA",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "24 Jun 1950 - 15:00",
     "Stage": "Group 1",
@@ -1186,8 +1132,7 @@ export const fifaData = [
     "MatchID": 1187,
     "Home Team Initials": "BRA",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "25 Jun 1950 - 15:00",
     "Stage": "Group 2",
@@ -1208,8 +1153,7 @@ export const fifaData = [
     "MatchID": 1192,
     "Home Team Initials": "ENG",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "25 Jun 1950 - 15:00",
     "Stage": "Group 2",
@@ -1230,8 +1174,7 @@ export const fifaData = [
     "MatchID": 1208,
     "Home Team Initials": "ESP",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "25 Jun 1950 - 15:00",
     "Stage": "Group 3",
@@ -1252,8 +1195,7 @@ export const fifaData = [
     "MatchID": 1219,
     "Home Team Initials": "SWE",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "25 Jun 1950 - 15:00",
     "Stage": "Group 1",
@@ -1274,8 +1216,7 @@ export const fifaData = [
     "MatchID": 1230,
     "Home Team Initials": "YUG",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "28 Jun 1950 - 15:00",
     "Stage": "Group 1",
@@ -1296,8 +1237,7 @@ export const fifaData = [
     "MatchID": 1188,
     "Home Team Initials": "BRA",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "28 Jun 1950 - 15:00",
     "Stage": "Group 1",
@@ -1318,8 +1258,7 @@ export const fifaData = [
     "MatchID": 1225,
     "Home Team Initials": "YUG",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "29 Jun 1950 - 15:00",
     "Stage": "Group 2",
@@ -1340,8 +1279,7 @@ export const fifaData = [
     "MatchID": 1193,
     "Home Team Initials": "ESP",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "29 Jun 1950 - 15:30",
     "Stage": "Group 3",
@@ -1362,8 +1300,7 @@ export const fifaData = [
     "MatchID": 1228,
     "Home Team Initials": "SWE",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "29 Jun 1950 - 15:00",
     "Stage": "Group 2",
@@ -1384,8 +1321,7 @@ export const fifaData = [
     "MatchID": 1202,
     "Home Team Initials": "USA",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "01 Jul 1950 - 15:00",
     "Stage": "Group 1",
@@ -1406,8 +1342,7 @@ export const fifaData = [
     "MatchID": 1191,
     "Home Team Initials": "BRA",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "02 Jul 1950 - 15:00",
     "Stage": "Group 2",
@@ -1428,8 +1363,7 @@ export const fifaData = [
     "MatchID": 1199,
     "Home Team Initials": "ESP",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "02 Jul 1950 - 15:00",
     "Stage": "Group 3",
@@ -1450,8 +1384,7 @@ export const fifaData = [
     "MatchID": 1218,
     "Home Team Initials": "ITA",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "02 Jul 1950 - 15:00",
     "Stage": "Group 4",
@@ -1472,8 +1405,7 @@ export const fifaData = [
     "MatchID": 1185,
     "Home Team Initials": "URU",
     "Away Team Initials": "BOL"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "02 Jul 1950 - 15:40",
     "Stage": "Group 1",
@@ -1494,8 +1426,7 @@ export const fifaData = [
     "MatchID": 1222,
     "Home Team Initials": "SUI",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "02 Jul 1950 - 15:00",
     "Stage": "Group 2",
@@ -1516,8 +1447,7 @@ export const fifaData = [
     "MatchID": 1194,
     "Home Team Initials": "CHI",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "09 Jul 1950 - 15:00",
     "Stage": "Group 6",
@@ -1538,8 +1468,7 @@ export const fifaData = [
     "MatchID": 1207,
     "Home Team Initials": "URU",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "09 Jul 1950 - 15:00",
     "Stage": "Group 6",
@@ -1560,8 +1489,7 @@ export const fifaData = [
     "MatchID": 1189,
     "Home Team Initials": "BRA",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "13 Jul 1950 - 15:00",
     "Stage": "Group 6",
@@ -1582,8 +1510,7 @@ export const fifaData = [
     "MatchID": 1186,
     "Home Team Initials": "BRA",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "13 Jul 1950 - 15:00",
     "Stage": "Group 6",
@@ -1604,8 +1531,7 @@ export const fifaData = [
     "MatchID": 1231,
     "Home Team Initials": "URU",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "16 Jul 1950 - 15:00",
     "Stage": "Group 6",
@@ -1626,8 +1552,7 @@ export const fifaData = [
     "MatchID": 1206,
     "Home Team Initials": "SWE",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1950,
     "Datetime": "16 Jul 1950 - 15:00",
     "Stage": "Group 6",
@@ -1648,8 +1573,7 @@ export const fifaData = [
     "MatchID": 1190,
     "Home Team Initials": "URU",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "16 Jun 1954 - 18:00",
     "Stage": "Group 3",
@@ -1670,8 +1594,7 @@ export const fifaData = [
     "MatchID": 1315,
     "Home Team Initials": "URU",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "16 Jun 1954 - 18:00",
     "Stage": "Group 3",
@@ -1692,8 +1615,7 @@ export const fifaData = [
     "MatchID": 1236,
     "Home Team Initials": "AUT",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "16 Jun 1954 - 18:00",
     "Stage": "Group 1",
@@ -1714,8 +1636,7 @@ export const fifaData = [
     "MatchID": 1249,
     "Home Team Initials": "BRA",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "16 Jun 1954 - 18:00",
     "Stage": "Group 1",
@@ -1736,8 +1657,7 @@ export const fifaData = [
     "MatchID": 1276,
     "Home Team Initials": "YUG",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "17 Jun 1954 - 18:00",
     "Stage": "Group 2",
@@ -1758,8 +1678,7 @@ export const fifaData = [
     "MatchID": 1283,
     "Home Team Initials": "FRG",
     "Away Team Initials": "TUR"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "17 Jun 1954 - 18:00",
     "Stage": "Group 2",
@@ -1780,8 +1699,7 @@ export const fifaData = [
     "MatchID": 1294,
     "Home Team Initials": "HUN",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "17 Jun 1954 - 18:10",
     "Stage": "Group 4",
@@ -1802,8 +1720,7 @@ export const fifaData = [
     "MatchID": 1240,
     "Home Team Initials": "ENG",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "17 Jun 1954 - 17:50",
     "Stage": "Group 4",
@@ -1824,8 +1741,7 @@ export const fifaData = [
     "MatchID": 1300,
     "Home Team Initials": "SUI",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "19 Jun 1954 - 16:50",
     "Stage": "Group 3",
@@ -1846,8 +1762,7 @@ export const fifaData = [
     "MatchID": 1313,
     "Home Team Initials": "URU",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "19 Jun 1954 - 17:00",
     "Stage": "Group 3",
@@ -1868,8 +1783,7 @@ export const fifaData = [
     "MatchID": 1238,
     "Home Team Initials": "AUT",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "19 Jun 1954 - 17:10",
     "Stage": "Group 1",
@@ -1890,8 +1804,7 @@ export const fifaData = [
     "MatchID": 1275,
     "Home Team Initials": "FRA",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "19 Jun 1954 - 17:00",
     "Stage": "Group 1",
@@ -1912,8 +1825,7 @@ export const fifaData = [
     "MatchID": 1252,
     "Home Team Initials": "BRA",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "20 Jun 1954 - 16:50",
     "Stage": "Group 2",
@@ -1934,8 +1846,7 @@ export const fifaData = [
     "MatchID": 1277,
     "Home Team Initials": "HUN",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "20 Jun 1954 - 17:00",
     "Stage": "Group 2",
@@ -1956,8 +1867,7 @@ export const fifaData = [
     "MatchID": 1304,
     "Home Team Initials": "TUR",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "20 Jun 1954 - 17:10",
     "Stage": "Group 4",
@@ -1978,8 +1888,7 @@ export const fifaData = [
     "MatchID": 1263,
     "Home Team Initials": "ENG",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "20 Jun 1954 - 17:00",
     "Stage": "Group 4",
@@ -2000,8 +1909,7 @@ export const fifaData = [
     "MatchID": 1243,
     "Home Team Initials": "ITA",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "23 Jun 1954 - 18:00",
     "Stage": "Group 2",
@@ -2022,8 +1930,7 @@ export const fifaData = [
     "MatchID": 1284,
     "Home Team Initials": "FRG",
     "Away Team Initials": "TUR"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "23 Jun 1954 - 18:00",
     "Stage": "Group 4",
@@ -2044,8 +1951,7 @@ export const fifaData = [
     "MatchID": 1301,
     "Home Team Initials": "SUI",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "26 Jun 1954 - 17:00",
     "Stage": "Quarter-finals",
@@ -2066,8 +1972,7 @@ export const fifaData = [
     "MatchID": 1264,
     "Home Team Initials": "URU",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "26 Jun 1954 - 17:00",
     "Stage": "Quarter-finals",
@@ -2088,8 +1993,7 @@ export const fifaData = [
     "MatchID": 1237,
     "Home Team Initials": "AUT",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "27 Jun 1954 - 17:00",
     "Stage": "Quarter-finals",
@@ -2110,8 +2014,7 @@ export const fifaData = [
     "MatchID": 1285,
     "Home Team Initials": "FRG",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "27 Jun 1954 - 17:00",
     "Stage": "Quarter-finals",
@@ -2132,8 +2035,7 @@ export const fifaData = [
     "MatchID": 1248,
     "Home Team Initials": "HUN",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "30 Jun 1954 - 18:00",
     "Stage": "Semi-finals",
@@ -2154,8 +2056,7 @@ export const fifaData = [
     "MatchID": 1233,
     "Home Team Initials": "FRG",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "30 Jun 1954 - 18:00",
     "Stage": "Semi-finals",
@@ -2176,8 +2077,7 @@ export const fifaData = [
     "MatchID": 1295,
     "Home Team Initials": "HUN",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "03 Jul 1954 - 17:00",
     "Stage": "Match for third place",
@@ -2198,8 +2098,7 @@ export const fifaData = [
     "MatchID": 1239,
     "Home Team Initials": "AUT",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1954,
     "Datetime": "04 Jul 1954 - 17:00",
     "Stage": "Final",
@@ -2220,8 +2119,7 @@ export const fifaData = [
     "MatchID": 1278,
     "Home Team Initials": "FRG",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "08 Jun 1958 - 14:00",
     "Stage": "Group 3",
@@ -2242,8 +2140,7 @@ export const fifaData = [
     "MatchID": 1415,
     "Home Team Initials": "SWE",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "08 Jun 1958 - 19:00",
     "Stage": "Group 4",
@@ -2264,8 +2161,7 @@ export const fifaData = [
     "MatchID": 1372,
     "Home Team Initials": "URS",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "08 Jun 1958 - 19:00",
     "Stage": "Group 1",
@@ -2286,8 +2182,7 @@ export const fifaData = [
     "MatchID": 1323,
     "Home Team Initials": "ARG",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "08 Jun 1958 - 19:00",
     "Stage": "Group 3",
@@ -2308,8 +2203,7 @@ export const fifaData = [
     "MatchID": 1407,
     "Home Team Initials": "HUN",
     "Away Team Initials": "WAL"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "08 Jun 1958 - 19:00",
     "Stage": "Group 2",
@@ -2330,8 +2224,7 @@ export const fifaData = [
     "MatchID": 1386,
     "Home Team Initials": "FRA",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "08 Jun 1958 - 19:00",
     "Stage": "Group 2",
@@ -2352,8 +2245,7 @@ export const fifaData = [
     "MatchID": 1434,
     "Home Team Initials": "YUG",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "08 Jun 1958 - 19:00",
     "Stage": "Group 4",
@@ -2374,8 +2266,7 @@ export const fifaData = [
     "MatchID": 1326,
     "Home Team Initials": "BRA",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "08 Jun 1958 - 19:00",
     "Stage": "Group 1",
@@ -2396,8 +2287,7 @@ export const fifaData = [
     "MatchID": 1421,
     "Home Team Initials": "NIR",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "11 Jun 1958 - 19:00",
     "Stage": "Group 4",
@@ -2418,8 +2308,7 @@ export const fifaData = [
     "MatchID": 1339,
     "Home Team Initials": "BRA",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "11 Jun 1958 - 19:00",
     "Stage": "Group 3",
@@ -2440,8 +2329,7 @@ export const fifaData = [
     "MatchID": 1418,
     "Home Team Initials": "MEX",
     "Away Team Initials": "WAL"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "11 Jun 1958 - 19:00",
     "Stage": "Group 2",
@@ -2462,8 +2350,7 @@ export const fifaData = [
     "MatchID": 1423,
     "Home Team Initials": "PAR",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "11 Jun 1958 - 19:00",
     "Stage": "Group 2",
@@ -2484,8 +2371,7 @@ export const fifaData = [
     "MatchID": 1388,
     "Home Team Initials": "YUG",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "11 Jun 1958 - 19:00",
     "Stage": "Group 4",
@@ -2506,8 +2392,7 @@ export const fifaData = [
     "MatchID": 1332,
     "Home Team Initials": "URS",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "11 Jun 1958 - 19:00",
     "Stage": "Group 1",
@@ -2528,8 +2413,7 @@ export const fifaData = [
     "MatchID": 1391,
     "Home Team Initials": "FRG",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "11 Jun 1958 - 19:00",
     "Stage": "Group 1",
@@ -2550,8 +2434,7 @@ export const fifaData = [
     "MatchID": 1324,
     "Home Team Initials": "ARG",
     "Away Team Initials": "NIR"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "12 Jun 1958 - 19:00",
     "Stage": "Group 3",
@@ -2572,8 +2455,7 @@ export const fifaData = [
     "MatchID": 1406,
     "Home Team Initials": "SWE",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "15 Jun 1958 - 14:00",
     "Stage": "Group 3",
@@ -2594,8 +2476,7 @@ export const fifaData = [
     "MatchID": 1438,
     "Home Team Initials": "SWE",
     "Away Team Initials": "WAL"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "15 Jun 1958 - 19:00",
     "Stage": "Group 4",
@@ -2616,8 +2497,7 @@ export const fifaData = [
     "MatchID": 1344,
     "Home Team Initials": "BRA",
     "Away Team Initials": "URS"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "15 Jun 1958 - 19:00",
     "Stage": "Group 1",
@@ -2638,8 +2518,7 @@ export const fifaData = [
     "MatchID": 1389,
     "Home Team Initials": "FRG",
     "Away Team Initials": "NIR"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "15 Jun 1958 - 19:00",
     "Stage": "Group 3",
@@ -2660,8 +2539,7 @@ export const fifaData = [
     "MatchID": 1403,
     "Home Team Initials": "HUN",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "15 Jun 1958 - 19:00",
     "Stage": "Group 2",
@@ -2682,8 +2560,7 @@ export const fifaData = [
     "MatchID": 1426,
     "Home Team Initials": "PAR",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "15 Jun 1958 - 19:00",
     "Stage": "Group 2",
@@ -2704,8 +2581,7 @@ export const fifaData = [
     "MatchID": 1387,
     "Home Team Initials": "FRA",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "15 Jun 1958 - 19:00",
     "Stage": "Group 4",
@@ -2726,8 +2602,7 @@ export const fifaData = [
     "MatchID": 1327,
     "Home Team Initials": "ENG",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "15 Jun 1958 - 19:00",
     "Stage": "Group 1",
@@ -2748,8 +2623,7 @@ export const fifaData = [
     "MatchID": 1325,
     "Home Team Initials": "TCH",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "17 Jun 1958 - 19:00",
     "Stage": "Group 4",
@@ -2770,8 +2644,7 @@ export const fifaData = [
     "MatchID": 1373,
     "Home Team Initials": "URS",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "17 Jun 1958 - 19:00",
     "Stage": "Group 1",
@@ -2792,8 +2665,7 @@ export const fifaData = [
     "MatchID": 1422,
     "Home Team Initials": "NIR",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "17 Jun 1958 - 19:00",
     "Stage": "Group 3",
@@ -2814,8 +2686,7 @@ export const fifaData = [
     "MatchID": 1408,
     "Home Team Initials": "WAL",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "19 Jun 1958 - 19:00",
     "Stage": "Quarter-finals",
@@ -2836,8 +2707,7 @@ export const fifaData = [
     "MatchID": 1345,
     "Home Team Initials": "BRA",
     "Away Team Initials": "WAL"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "19 Jun 1958 - 19:00",
     "Stage": "Quarter-finals",
@@ -2858,8 +2728,7 @@ export const fifaData = [
     "MatchID": 1392,
     "Home Team Initials": "FRG",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "19 Jun 1958 - 19:00",
     "Stage": "Quarter-finals",
@@ -2880,8 +2749,7 @@ export const fifaData = [
     "MatchID": 1437,
     "Home Team Initials": "SWE",
     "Away Team Initials": "URS"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "19 Jun 1958 - 19:00",
     "Stage": "Quarter-finals",
@@ -2902,8 +2770,7 @@ export const fifaData = [
     "MatchID": 1385,
     "Home Team Initials": "FRA",
     "Away Team Initials": "NIR"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "24 Jun 1958 - 19:00",
     "Stage": "Semi-finals",
@@ -2924,8 +2791,7 @@ export const fifaData = [
     "MatchID": 1390,
     "Home Team Initials": "SWE",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "24 Jun 1958 - 19:00",
     "Stage": "Semi-finals",
@@ -2946,8 +2812,7 @@ export const fifaData = [
     "MatchID": 1340,
     "Home Team Initials": "BRA",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "28 Jun 1958 - 17:00",
     "Stage": "Match for third place",
@@ -2968,8 +2833,7 @@ export const fifaData = [
     "MatchID": 1382,
     "Home Team Initials": "FRA",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1958,
     "Datetime": "29 Jun 1958 - 15:00",
     "Stage": "Final",
@@ -2990,8 +2854,7 @@ export const fifaData = [
     "MatchID": 1343,
     "Home Team Initials": "BRA",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "30 May 1962 - 15:00",
     "Stage": "Group 1",
@@ -3012,8 +2875,7 @@ export const fifaData = [
     "MatchID": 1479,
     "Home Team Initials": "URU",
     "Away Team Initials": "COL"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "30 May 1962 - 15:00",
     "Stage": "Group 3",
@@ -3034,8 +2896,7 @@ export const fifaData = [
     "MatchID": 1461,
     "Home Team Initials": "BRA",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "30 May 1962 - 15:00",
     "Stage": "Group 4",
@@ -3056,8 +2917,7 @@ export const fifaData = [
     "MatchID": 1447,
     "Home Team Initials": "ARG",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "30 May 1962 - 15:00",
     "Stage": "Group 2",
@@ -3078,8 +2938,7 @@ export const fifaData = [
     "MatchID": 1473,
     "Home Team Initials": "CHI",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "31 May 1962 - 15:00",
     "Stage": "Group 1",
@@ -3100,8 +2959,7 @@ export const fifaData = [
     "MatchID": 1563,
     "Home Team Initials": "URS",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "31 May 1962 - 15:00",
     "Stage": "Group 3",
@@ -3122,8 +2980,7 @@ export const fifaData = [
     "MatchID": 1498,
     "Home Team Initials": "TCH",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "31 May 1962 - 15:00",
     "Stage": "Group 4",
@@ -3144,8 +3001,7 @@ export const fifaData = [
     "MatchID": 1490,
     "Home Team Initials": "HUN",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "31 May 1962 - 15:00",
     "Stage": "Group 2",
@@ -3166,8 +3022,7 @@ export const fifaData = [
     "MatchID": 1507,
     "Home Team Initials": "FRG",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "02 Jun 1962 - 15:00",
     "Stage": "Group 1",
@@ -3188,8 +3043,7 @@ export const fifaData = [
     "MatchID": 1564,
     "Home Team Initials": "YUG",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "02 Jun 1962 - 15:00",
     "Stage": "Group 3",
@@ -3210,8 +3064,7 @@ export const fifaData = [
     "MatchID": 1462,
     "Home Team Initials": "BRA",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "02 Jun 1962 - 15:00",
     "Stage": "Group 4",
@@ -3232,8 +3085,7 @@ export const fifaData = [
     "MatchID": 1450,
     "Home Team Initials": "ENG",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "02 Jun 1962 - 15:00",
     "Stage": "Group 2",
@@ -3254,8 +3106,7 @@ export const fifaData = [
     "MatchID": 1472,
     "Home Team Initials": "CHI",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "03 Jun 1962 - 15:00",
     "Stage": "Group 1",
@@ -3276,8 +3127,7 @@ export const fifaData = [
     "MatchID": 1478,
     "Home Team Initials": "URS",
     "Away Team Initials": "COL"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "03 Jun 1962 - 15:00",
     "Stage": "Group 3",
@@ -3298,8 +3148,7 @@ export const fifaData = [
     "MatchID": 1497,
     "Home Team Initials": "ESP",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "03 Jun 1962 - 15:00",
     "Stage": "Group 4",
@@ -3320,8 +3169,7 @@ export const fifaData = [
     "MatchID": 1470,
     "Home Team Initials": "HUN",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "03 Jun 1962 - 15:00",
     "Stage": "Group 2",
@@ -3342,8 +3190,7 @@ export const fifaData = [
     "MatchID": 1510,
     "Home Team Initials": "FRG",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "06 Jun 1962 - 15:00",
     "Stage": "Group 1",
@@ -3364,8 +3211,7 @@ export const fifaData = [
     "MatchID": 1562,
     "Home Team Initials": "URS",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "06 Jun 1962 - 15:00",
     "Stage": "Group 3",
@@ -3386,8 +3232,7 @@ export const fifaData = [
     "MatchID": 1460,
     "Home Team Initials": "BRA",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "06 Jun 1962 - 15:00",
     "Stage": "Group 4",
@@ -3408,8 +3253,7 @@ export const fifaData = [
     "MatchID": 1451,
     "Home Team Initials": "HUN",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "06 Jun 1962 - 15:00",
     "Stage": "Group 2",
@@ -3430,8 +3274,7 @@ export const fifaData = [
     "MatchID": 1471,
     "Home Team Initials": "FRG",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "07 Jun 1962 - 15:00",
     "Stage": "Group 1",
@@ -3452,8 +3295,7 @@ export const fifaData = [
     "MatchID": 1480,
     "Home Team Initials": "YUG",
     "Away Team Initials": "COL"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "07 Jun 1962 - 15:00",
     "Stage": "Group 3",
@@ -3474,8 +3316,7 @@ export const fifaData = [
     "MatchID": 1544,
     "Home Team Initials": "MEX",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "07 Jun 1962 - 15:00",
     "Stage": "Group 4",
@@ -3496,8 +3337,7 @@ export const fifaData = [
     "MatchID": 1464,
     "Home Team Initials": "ENG",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "07 Jun 1962 - 15:00",
     "Stage": "Group 2",
@@ -3518,8 +3358,7 @@ export const fifaData = [
     "MatchID": 1532,
     "Home Team Initials": "ITA",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "10 Jun 1962 - 14:30",
     "Stage": "Quarter-finals",
@@ -3540,8 +3379,7 @@ export const fifaData = [
     "MatchID": 1474,
     "Home Team Initials": "CHI",
     "Away Team Initials": "URS"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "10 Jun 1962 - 14:30",
     "Stage": "Quarter-finals",
@@ -3562,8 +3400,7 @@ export const fifaData = [
     "MatchID": 1459,
     "Home Team Initials": "BRA",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "10 Jun 1962 - 14:30",
     "Stage": "Quarter-finals",
@@ -3584,8 +3421,7 @@ export const fifaData = [
     "MatchID": 1525,
     "Home Team Initials": "TCH",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "10 Jun 1962 - 14:30",
     "Stage": "Quarter-finals",
@@ -3606,8 +3442,7 @@ export const fifaData = [
     "MatchID": 1511,
     "Home Team Initials": "YUG",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "13 Jun 1962 - 14:30",
     "Stage": "Semi-finals",
@@ -3628,8 +3463,7 @@ export const fifaData = [
     "MatchID": 1559,
     "Home Team Initials": "TCH",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "13 Jun 1962 - 14:30",
     "Stage": "Semi-finals",
@@ -3650,8 +3484,7 @@ export const fifaData = [
     "MatchID": 1458,
     "Home Team Initials": "BRA",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "16 Jun 1962 - 14:30",
     "Stage": "Match for third place",
@@ -3672,8 +3505,7 @@ export const fifaData = [
     "MatchID": 1475,
     "Home Team Initials": "CHI",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1962,
     "Datetime": "17 Jun 1962 - 14:30",
     "Stage": "Final",
@@ -3694,8 +3526,7 @@ export const fifaData = [
     "MatchID": 1463,
     "Home Team Initials": "BRA",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "11 Jul 1966 - 19:30",
     "Stage": "Group 1",
@@ -3716,8 +3547,7 @@ export const fifaData = [
     "MatchID": 1636,
     "Home Team Initials": "ENG",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "12 Jul 1966 - 19:30",
     "Stage": "Group 2",
@@ -3738,8 +3568,7 @@ export const fifaData = [
     "MatchID": 1656,
     "Home Team Initials": "FRG",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "12 Jul 1966 - 19:30",
     "Stage": "Group 3",
@@ -3760,8 +3589,7 @@ export const fifaData = [
     "MatchID": 1596,
     "Home Team Initials": "BRA",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "12 Jul 1966 - 19:30",
     "Stage": "Group 4",
@@ -3782,8 +3610,7 @@ export const fifaData = [
     "MatchID": 1710,
     "Home Team Initials": "URS",
     "Away Team Initials": "PRK"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "13 Jul 1966 - 19:30",
     "Stage": "Group 1",
@@ -3804,8 +3631,7 @@ export const fifaData = [
     "MatchID": 1650,
     "Home Team Initials": "FRA",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "13 Jul 1966 - 19:30",
     "Stage": "Group 3",
@@ -3826,8 +3652,7 @@ export const fifaData = [
     "MatchID": 1675,
     "Home Team Initials": "POR",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "13 Jul 1966 - 19:30",
     "Stage": "Group 2",
@@ -3848,8 +3673,7 @@ export const fifaData = [
     "MatchID": 1578,
     "Home Team Initials": "ARG",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "13 Jul 1966 - 19:30",
     "Stage": "Group 4",
@@ -3870,8 +3694,7 @@ export const fifaData = [
     "MatchID": 1608,
     "Home Team Initials": "ITA",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "15 Jul 1966 - 19:30",
     "Stage": "Group 1",
@@ -3892,8 +3715,7 @@ export const fifaData = [
     "MatchID": 1653,
     "Home Team Initials": "URU",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "15 Jul 1966 - 19:30",
     "Stage": "Group 2",
@@ -3914,8 +3736,7 @@ export const fifaData = [
     "MatchID": 1641,
     "Home Team Initials": "ESP",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "15 Jul 1966 - 19:30",
     "Stage": "Group 3",
@@ -3936,8 +3757,7 @@ export const fifaData = [
     "MatchID": 1597,
     "Home Team Initials": "HUN",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "15 Jul 1966 - 19:30",
     "Stage": "Group 4",
@@ -3958,8 +3778,7 @@ export const fifaData = [
     "MatchID": 1609,
     "Home Team Initials": "PRK",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "16 Jul 1966 - 15:00",
     "Stage": "Group 3",
@@ -3980,8 +3799,7 @@ export const fifaData = [
     "MatchID": 1602,
     "Home Team Initials": "POR",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "16 Jul 1966 - 15:00",
     "Stage": "Group 2",
@@ -4002,8 +3820,7 @@ export const fifaData = [
     "MatchID": 1579,
     "Home Team Initials": "FRG",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "16 Jul 1966 - 15:00",
     "Stage": "Group 4",
@@ -4024,8 +3841,7 @@ export const fifaData = [
     "MatchID": 1682,
     "Home Team Initials": "URS",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "16 Jul 1966 - 19:30",
     "Stage": "Group 1",
@@ -4046,8 +3862,7 @@ export const fifaData = [
     "MatchID": 1634,
     "Home Team Initials": "ENG",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "19 Jul 1966 - 16:30",
     "Stage": "Group 1",
@@ -4068,8 +3883,7 @@ export const fifaData = [
     "MatchID": 1689,
     "Home Team Initials": "URU",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "19 Jul 1966 - 19:30",
     "Stage": "Group 2",
@@ -4090,8 +3904,7 @@ export const fifaData = [
     "MatchID": 1582,
     "Home Team Initials": "ARG",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "19 Jul 1966 - 19:30",
     "Stage": "Group 3",
@@ -4112,8 +3925,7 @@ export const fifaData = [
     "MatchID": 1598,
     "Home Team Initials": "POR",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "19 Jul 1966 - 19:30",
     "Stage": "Group 4",
@@ -4134,8 +3946,7 @@ export const fifaData = [
     "MatchID": 1679,
     "Home Team Initials": "PRK",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "20 Jul 1966 - 19:30",
     "Stage": "Group 1",
@@ -4156,8 +3967,7 @@ export const fifaData = [
     "MatchID": 1632,
     "Home Team Initials": "ENG",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "20 Jul 1966 - 19:30",
     "Stage": "Group 3",
@@ -4178,8 +3988,7 @@ export const fifaData = [
     "MatchID": 1599,
     "Home Team Initials": "HUN",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "20 Jul 1966 - 19:30",
     "Stage": "Group 2",
@@ -4200,8 +4009,7 @@ export const fifaData = [
     "MatchID": 1637,
     "Home Team Initials": "FRG",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "20 Jul 1966 - 19:30",
     "Stage": "Group 4",
@@ -4222,8 +4030,7 @@ export const fifaData = [
     "MatchID": 1610,
     "Home Team Initials": "URS",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "23 Jul 1966 - 15:00",
     "Stage": "Quarter-finals",
@@ -4244,8 +4051,7 @@ export const fifaData = [
     "MatchID": 1577,
     "Home Team Initials": "ENG",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "23 Jul 1966 - 15:00",
     "Stage": "Quarter-finals",
@@ -4266,8 +4072,7 @@ export const fifaData = [
     "MatchID": 1660,
     "Home Team Initials": "FRG",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "23 Jul 1966 - 15:00",
     "Stage": "Quarter-finals",
@@ -4288,8 +4093,7 @@ export const fifaData = [
     "MatchID": 1676,
     "Home Team Initials": "URS",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "23 Jul 1966 - 15:00",
     "Stage": "Quarter-finals",
@@ -4310,8 +4114,7 @@ export const fifaData = [
     "MatchID": 1702,
     "Home Team Initials": "POR",
     "Away Team Initials": "PRK"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "25 Jul 1966 - 19:30",
     "Stage": "Semi-finals",
@@ -4332,8 +4135,7 @@ export const fifaData = [
     "MatchID": 1659,
     "Home Team Initials": "FRG",
     "Away Team Initials": "URS"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "26 Jul 1966 - 19:30",
     "Stage": "Semi-finals",
@@ -4354,8 +4156,7 @@ export const fifaData = [
     "MatchID": 1635,
     "Home Team Initials": "ENG",
     "Away Team Initials": "POR"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "28 Jul 1966 - 19:30",
     "Stage": "Match for third place",
@@ -4376,8 +4177,7 @@ export const fifaData = [
     "MatchID": 1709,
     "Home Team Initials": "POR",
     "Away Team Initials": "URS"
-  },
-  {
+}, {
     "Year": 1966,
     "Datetime": "30 Jul 1966 - 15:00",
     "Stage": "Final",
@@ -4398,8 +4198,7 @@ export const fifaData = [
     "MatchID": 1633,
     "Home Team Initials": "ENG",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "31 May 1970 - 12:00",
     "Stage": "Group 1",
@@ -4420,8 +4219,7 @@ export const fifaData = [
     "MatchID": 1902,
     "Home Team Initials": "MEX",
     "Away Team Initials": "URS"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "02 Jun 1970 - 16:00",
     "Stage": "Group 2",
@@ -4442,8 +4240,7 @@ export const fifaData = [
     "MatchID": 1881,
     "Home Team Initials": "URU",
     "Away Team Initials": "ISR"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "02 Jun 1970 - 16:00",
     "Stage": "Group 4",
@@ -4464,8 +4261,7 @@ export const fifaData = [
     "MatchID": 1780,
     "Home Team Initials": "PER",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "02 Jun 1970 - 16:00",
     "Stage": "Group 3",
@@ -4486,8 +4282,7 @@ export const fifaData = [
     "MatchID": 1812,
     "Home Team Initials": "ENG",
     "Away Team Initials": "ROU"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "03 Jun 1970 - 16:00",
     "Stage": "Group 2",
@@ -4508,8 +4303,7 @@ export const fifaData = [
     "MatchID": 1883,
     "Home Team Initials": "ITA",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "03 Jun 1970 - 16:00",
     "Stage": "Group 4",
@@ -4530,8 +4324,7 @@ export const fifaData = [
     "MatchID": 1839,
     "Home Team Initials": "FRG",
     "Away Team Initials": "MAR"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "03 Jun 1970 - 16:00",
     "Stage": "Group 3",
@@ -4552,8 +4345,7 @@ export const fifaData = [
     "MatchID": 1770,
     "Home Team Initials": "BRA",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "03 Jun 1970 - 16:00",
     "Stage": "Group 1",
@@ -4574,8 +4366,7 @@ export const fifaData = [
     "MatchID": 1747,
     "Home Team Initials": "BEL",
     "Away Team Initials": "SLV"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "06 Jun 1970 - 16:00",
     "Stage": "Group 2",
@@ -4596,8 +4387,7 @@ export const fifaData = [
     "MatchID": 1884,
     "Home Team Initials": "URU",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "06 Jun 1970 - 16:00",
     "Stage": "Group 4",
@@ -4618,8 +4408,7 @@ export const fifaData = [
     "MatchID": 1893,
     "Home Team Initials": "PER",
     "Away Team Initials": "MAR"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "06 Jun 1970 - 16:00",
     "Stage": "Group 3",
@@ -4640,8 +4429,7 @@ export const fifaData = [
     "MatchID": 1919,
     "Home Team Initials": "ROU",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "06 Jun 1970 - 16:00",
     "Stage": "Group 1",
@@ -4662,8 +4450,7 @@ export const fifaData = [
     "MatchID": 1753,
     "Home Team Initials": "URS",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "07 Jun 1970 - 12:00",
     "Stage": "Group 2",
@@ -4684,8 +4471,7 @@ export const fifaData = [
     "MatchID": 1880,
     "Home Team Initials": "SWE",
     "Away Team Initials": "ISR"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "07 Jun 1970 - 12:00",
     "Stage": "Group 4",
@@ -4706,8 +4492,7 @@ export const fifaData = [
     "MatchID": 1774,
     "Home Team Initials": "FRG",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "07 Jun 1970 - 12:00",
     "Stage": "Group 3",
@@ -4728,8 +4513,7 @@ export const fifaData = [
     "MatchID": 1764,
     "Home Team Initials": "BRA",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "07 Jun 1970 - 12:00",
     "Stage": "Group 1",
@@ -4750,8 +4534,7 @@ export const fifaData = [
     "MatchID": 1820,
     "Home Team Initials": "MEX",
     "Away Team Initials": "SLV"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "10 Jun 1970 - 16:00",
     "Stage": "Group 2",
@@ -4772,8 +4555,7 @@ export const fifaData = [
     "MatchID": 1922,
     "Home Team Initials": "SWE",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "10 Jun 1970 - 16:00",
     "Stage": "Group 4",
@@ -4794,8 +4576,7 @@ export const fifaData = [
     "MatchID": 1840,
     "Home Team Initials": "FRG",
     "Away Team Initials": "PER"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "10 Jun 1970 - 16:00",
     "Stage": "Group 3",
@@ -4816,8 +4597,7 @@ export const fifaData = [
     "MatchID": 1769,
     "Home Team Initials": "BRA",
     "Away Team Initials": "ROU"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "10 Jun 1970 - 16:00",
     "Stage": "Group 1",
@@ -4838,8 +4618,7 @@ export const fifaData = [
     "MatchID": 1823,
     "Home Team Initials": "URS",
     "Away Team Initials": "SLV"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "11 Jun 1970 - 16:00",
     "Stage": "Group 2",
@@ -4860,8 +4639,7 @@ export const fifaData = [
     "MatchID": 1877,
     "Home Team Initials": "ITA",
     "Away Team Initials": "ISR"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "11 Jun 1970 - 16:00",
     "Stage": "Group 4",
@@ -4882,8 +4660,7 @@ export const fifaData = [
     "MatchID": 1779,
     "Home Team Initials": "BUL",
     "Away Team Initials": "MAR"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "11 Jun 1970 - 16:00",
     "Stage": "Group 3",
@@ -4904,8 +4681,7 @@ export const fifaData = [
     "MatchID": 1813,
     "Home Team Initials": "ENG",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "11 Jun 1970 - 16:00",
     "Stage": "Group 1",
@@ -4926,8 +4702,7 @@ export const fifaData = [
     "MatchID": 1752,
     "Home Team Initials": "MEX",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "14 Jun 1970 - 12:00",
     "Stage": "Quarter-finals",
@@ -4948,8 +4723,7 @@ export const fifaData = [
     "MatchID": 1882,
     "Home Team Initials": "ITA",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "14 Jun 1970 - 12:00",
     "Stage": "Quarter-finals",
@@ -4970,8 +4744,7 @@ export const fifaData = [
     "MatchID": 1811,
     "Home Team Initials": "FRG",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "14 Jun 1970 - 12:00",
     "Stage": "Quarter-finals",
@@ -4992,8 +4765,7 @@ export const fifaData = [
     "MatchID": 1768,
     "Home Team Initials": "BRA",
     "Away Team Initials": "PER"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "14 Jun 1970 - 12:00",
     "Stage": "Quarter-finals",
@@ -5014,8 +4786,7 @@ export const fifaData = [
     "MatchID": 1925,
     "Home Team Initials": "URU",
     "Away Team Initials": "URS"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "17 Jun 1970 - 16:00",
     "Stage": "Semi-finals",
@@ -5036,8 +4807,7 @@ export const fifaData = [
     "MatchID": 1771,
     "Home Team Initials": "BRA",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "17 June 1970 - 16:00",
     "Stage": "Semi-finals",
@@ -5058,8 +4828,7 @@ export const fifaData = [
     "MatchID": 1838,
     "Home Team Initials": "ITA",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "20 Jun 1970 - 16:00",
     "Stage": "Match for third place",
@@ -5080,8 +4849,7 @@ export const fifaData = [
     "MatchID": 1843,
     "Home Team Initials": "FRG",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1970,
     "Datetime": "21 Jun 1970 - 12:00",
     "Stage": "Final",
@@ -5102,8 +4870,7 @@ export const fifaData = [
     "MatchID": 1765,
     "Home Team Initials": "BRA",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "13 Jun 1974 - 17:00",
     "Stage": "Group 2",
@@ -5124,8 +4891,7 @@ export const fifaData = [
     "MatchID": 1986,
     "Home Team Initials": "BRA",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "14 Jun 1974 - 16:00",
     "Stage": "Group 1",
@@ -5146,8 +4912,7 @@ export const fifaData = [
     "MatchID": 2003,
     "Home Team Initials": "FRG",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "14 Jun 1974 - 19:30",
     "Stage": "Group 1",
@@ -5168,8 +4933,7 @@ export const fifaData = [
     "MatchID": 1955,
     "Home Team Initials": "GDR",
     "Away Team Initials": "AUS"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "14 Jun 1974 - 19:30",
     "Stage": "Group 2",
@@ -5190,8 +4954,7 @@ export const fifaData = [
     "MatchID": 2176,
     "Home Team Initials": "ZAI",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "15 Jun 1974 - 16:00",
     "Stage": "Group 3",
@@ -5212,8 +4975,7 @@ export const fifaData = [
     "MatchID": 2098,
     "Home Team Initials": "URU",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "15 Jun 1974 - 16:00",
     "Stage": "Group 3",
@@ -5234,8 +4996,7 @@ export const fifaData = [
     "MatchID": 1995,
     "Home Team Initials": "SWE",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "15 Jun 1974 - 18:00",
     "Stage": "Group 4",
@@ -5256,8 +5017,7 @@ export const fifaData = [
     "MatchID": 2083,
     "Home Team Initials": "ITA",
     "Away Team Initials": "HAI"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "15 Jun 1974 - 18:00",
     "Stage": "Group 4",
@@ -5278,8 +5038,7 @@ export const fifaData = [
     "MatchID": 1952,
     "Home Team Initials": "POL",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "18 Jun 1974 - 16:00",
     "Stage": "Group 1",
@@ -5300,8 +5059,7 @@ export const fifaData = [
     "MatchID": 1954,
     "Home Team Initials": "AUS",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "18 Jun 1974 - 19:30",
     "Stage": "Group 2",
@@ -5322,8 +5080,7 @@ export const fifaData = [
     "MatchID": 1985,
     "Home Team Initials": "SCO",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "18 Jun 1974 - 19:30",
     "Stage": "Group 1",
@@ -5344,8 +5101,7 @@ export const fifaData = [
     "MatchID": 2004,
     "Home Team Initials": "CHI",
     "Away Team Initials": "GDR"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "18 Jun 1974 - 19:30",
     "Stage": "Group 2",
@@ -5366,8 +5122,7 @@ export const fifaData = [
     "MatchID": 2186,
     "Home Team Initials": "YUG",
     "Away Team Initials": "ZAI"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "19 Jun 1974 - 19:30",
     "Stage": "Group 3",
@@ -5388,8 +5143,7 @@ export const fifaData = [
     "MatchID": 2097,
     "Home Team Initials": "NED",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "19 Jun 1974 - 19:30",
     "Stage": "Group 3",
@@ -5410,8 +5164,7 @@ export const fifaData = [
     "MatchID": 1996,
     "Home Team Initials": "BUL",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "19 Jun 1974 - 19:30",
     "Stage": "Group 4",
@@ -5432,8 +5185,7 @@ export const fifaData = [
     "MatchID": 2085,
     "Home Team Initials": "HAI",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "19 Jun 1974 - 19:30",
     "Stage": "Group 4",
@@ -5454,8 +5206,7 @@ export const fifaData = [
     "MatchID": 1949,
     "Home Team Initials": "ARG",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "22 Jun 1974 - 16:00",
     "Stage": "Group 2",
@@ -5476,8 +5227,7 @@ export const fifaData = [
     "MatchID": 2175,
     "Home Team Initials": "SCO",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "22 Jun 1974 - 16:00",
     "Stage": "Group 1",
@@ -5498,8 +5248,7 @@ export const fifaData = [
     "MatchID": 1953,
     "Home Team Initials": "AUS",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "22 Jun 1974 - 16:00",
     "Stage": "Group 2",
@@ -5520,8 +5269,7 @@ export const fifaData = [
     "MatchID": 1987,
     "Home Team Initials": "ZAI",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "22 June 1974 - 19:30",
     "Stage": "Group 1",
@@ -5542,8 +5290,7 @@ export const fifaData = [
     "MatchID": 2062,
     "Home Team Initials": "GDR",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "23 Jun 1974 - 16:00",
     "Stage": "Group 3",
@@ -5564,8 +5311,7 @@ export const fifaData = [
     "MatchID": 1990,
     "Home Team Initials": "BUL",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "23 Jun 1974 - 16:00",
     "Stage": "Group 4",
@@ -5586,8 +5332,7 @@ export const fifaData = [
     "MatchID": 1947,
     "Home Team Initials": "ARG",
     "Away Team Initials": "HAI"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "23 Jun 1974 - 16:00",
     "Stage": "Group 3",
@@ -5608,8 +5353,7 @@ export const fifaData = [
     "MatchID": 2181,
     "Home Team Initials": "SWE",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "23 Jun 1974 - 16:00",
     "Stage": "Group 4",
@@ -5630,8 +5374,7 @@ export const fifaData = [
     "MatchID": 2129,
     "Home Team Initials": "POL",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "26 Jun 1974 - 16:00",
     "Stage": "Group B",
@@ -5652,8 +5395,7 @@ export const fifaData = [
     "MatchID": 2066,
     "Home Team Initials": "YUG",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "26 Jun 1974 - 19:30",
     "Stage": "Group A",
@@ -5674,8 +5416,7 @@ export const fifaData = [
     "MatchID": 1982,
     "Home Team Initials": "BRA",
     "Away Team Initials": "GDR"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "26 Jun 1974 - 19:30",
     "Stage": "Group A",
@@ -5696,8 +5437,7 @@ export const fifaData = [
     "MatchID": 1948,
     "Home Team Initials": "NED",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "26 Jun 1974 - 19:30",
     "Stage": "Group B",
@@ -5718,8 +5458,7 @@ export const fifaData = [
     "MatchID": 2167,
     "Home Team Initials": "SWE",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "30 Jun 1974 - 16:00",
     "Stage": "Group A",
@@ -5740,8 +5479,7 @@ export const fifaData = [
     "MatchID": 1945,
     "Home Team Initials": "ARG",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "30 Jun 1974 - 16:00",
     "Stage": "Group B",
@@ -5762,8 +5500,7 @@ export const fifaData = [
     "MatchID": 2170,
     "Home Team Initials": "POL",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "30 Jun 1974 - 16:00",
     "Stage": "Group A",
@@ -5784,8 +5521,7 @@ export const fifaData = [
     "MatchID": 2067,
     "Home Team Initials": "GDR",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "30 Jun 1974 - 19:30",
     "Stage": "Group B",
@@ -5806,8 +5542,7 @@ export const fifaData = [
     "MatchID": 2065,
     "Home Team Initials": "FRG",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "03 Jul 1974 - 17:00",
     "Stage": "Group B",
@@ -5828,8 +5563,7 @@ export const fifaData = [
     "MatchID": 2064,
     "Home Team Initials": "POL",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "03 Jul 1974 - 19:30",
     "Stage": "Group A",
@@ -5850,8 +5584,7 @@ export const fifaData = [
     "MatchID": 1983,
     "Home Team Initials": "NED",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "03 Jul 1974 - 19:30",
     "Stage": "Group A",
@@ -5872,8 +5605,7 @@ export const fifaData = [
     "MatchID": 1946,
     "Home Team Initials": "ARG",
     "Away Team Initials": "GDR"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "03 Jul 1974 - 19:30",
     "Stage": "Group B",
@@ -5894,8 +5626,7 @@ export const fifaData = [
     "MatchID": 2182,
     "Home Team Initials": "SWE",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "06 Jul 1974 - 16:00",
     "Stage": "Match for third place",
@@ -5916,8 +5647,7 @@ export const fifaData = [
     "MatchID": 1984,
     "Home Team Initials": "BRA",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 1974,
     "Datetime": "07 July 1974 - 16:00",
     "Stage": "Final",
@@ -5938,8 +5668,7 @@ export const fifaData = [
     "MatchID": 2063,
     "Home Team Initials": "NED",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "01 Jun 1978 - 15:00",
     "Stage": "Group 2",
@@ -5960,8 +5689,7 @@ export const fifaData = [
     "MatchID": 2351,
     "Home Team Initials": "FRG",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "02 Jun 1978 - 13:45",
     "Stage": "Group 1",
@@ -5982,8 +5710,7 @@ export const fifaData = [
     "MatchID": 2347,
     "Home Team Initials": "ITA",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "02 Jun 1978 - 16:45",
     "Stage": "Group 2",
@@ -6004,8 +5731,7 @@ export const fifaData = [
     "MatchID": 2433,
     "Home Team Initials": "TUN",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "02 Jun 1978 - 19:15",
     "Stage": "Group 1",
@@ -6026,8 +5752,7 @@ export const fifaData = [
     "MatchID": 2199,
     "Home Team Initials": "ARG",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "03 Jun 1978 - 13:45",
     "Stage": "Group 3",
@@ -6048,8 +5773,7 @@ export const fifaData = [
     "MatchID": 2253,
     "Home Team Initials": "SWE",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "03 Jun 1978 - 13:45",
     "Stage": "Group 3",
@@ -6070,8 +5794,7 @@ export const fifaData = [
     "MatchID": 2216,
     "Home Team Initials": "AUT",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "03 Jun 1978 - 16:45",
     "Stage": "Group 4",
@@ -6092,8 +5815,7 @@ export const fifaData = [
     "MatchID": 2451,
     "Home Team Initials": "PER",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "03 Jun 1978 - 16:45",
     "Stage": "Group 4",
@@ -6114,8 +5836,7 @@ export const fifaData = [
     "MatchID": 2388,
     "Home Team Initials": "NED",
     "Away Team Initials": "IRN"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "06 Jun 1978 - 13:45",
     "Stage": "Group 1",
@@ -6136,8 +5857,7 @@ export const fifaData = [
     "MatchID": 2396,
     "Home Team Initials": "ITA",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "06 Jun 1978 - 16:45",
     "Stage": "Group 2",
@@ -6158,8 +5878,7 @@ export const fifaData = [
     "MatchID": 2454,
     "Home Team Initials": "POL",
     "Away Team Initials": "TUN"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "06 Jun 1978 - 16:45",
     "Stage": "Group 2",
@@ -6180,8 +5899,7 @@ export const fifaData = [
     "MatchID": 2350,
     "Home Team Initials": "FRG",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "06 Jun 1978 - 19:15",
     "Stage": "Group 1",
@@ -6202,8 +5920,7 @@ export const fifaData = [
     "MatchID": 2197,
     "Home Team Initials": "ARG",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "07 Jun 1978 - 13:45",
     "Stage": "Group 3",
@@ -6224,8 +5941,7 @@ export const fifaData = [
     "MatchID": 2246,
     "Home Team Initials": "BRA",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "07 Jun 1978 - 13:45",
     "Stage": "Group 3",
@@ -6246,8 +5962,7 @@ export const fifaData = [
     "MatchID": 2224,
     "Home Team Initials": "AUT",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "07 Jun 1978 - 16:45",
     "Stage": "Group 4",
@@ -6268,8 +5983,7 @@ export const fifaData = [
     "MatchID": 2408,
     "Home Team Initials": "SCO",
     "Away Team Initials": "IRN"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "07 Jun 1978 - 16:45",
     "Stage": "Group 4",
@@ -6290,8 +6004,7 @@ export const fifaData = [
     "MatchID": 2394,
     "Home Team Initials": "NED",
     "Away Team Initials": "PER"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "10 Jun 1978 - 15:10",
     "Stage": "Group 1",
@@ -6312,8 +6025,7 @@ export const fifaData = [
     "MatchID": 2344,
     "Home Team Initials": "FRA",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "10 Jun 1978 - 16:45",
     "Stage": "Group 2",
@@ -6334,8 +6046,7 @@ export const fifaData = [
     "MatchID": 2431,
     "Home Team Initials": "POL",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "10 Jun 1978 - 16:45",
     "Stage": "Group 2",
@@ -6356,8 +6067,7 @@ export const fifaData = [
     "MatchID": 2352,
     "Home Team Initials": "FRG",
     "Away Team Initials": "TUN"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "10 Jun 1978 - 19:15",
     "Stage": "Group 1",
@@ -6378,8 +6088,7 @@ export const fifaData = [
     "MatchID": 2200,
     "Home Team Initials": "ITA",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "11 Jun 1978 - 13:45",
     "Stage": "Group 3",
@@ -6400,8 +6109,7 @@ export const fifaData = [
     "MatchID": 2215,
     "Home Team Initials": "BRA",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "11 Jun 1978 - 13:45",
     "Stage": "Group 3",
@@ -6422,8 +6130,7 @@ export const fifaData = [
     "MatchID": 2337,
     "Home Team Initials": "ESP",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "11 Jun 1978 - 16:45",
     "Stage": "Group 4",
@@ -6444,8 +6151,7 @@ export const fifaData = [
     "MatchID": 2405,
     "Home Team Initials": "PER",
     "Away Team Initials": "IRN"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "11 Jun 1978 - 16:45",
     "Stage": "Group 4",
@@ -6466,8 +6172,7 @@ export const fifaData = [
     "MatchID": 2395,
     "Home Team Initials": "SCO",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "14 Jun 1978 - 13:45",
     "Stage": "Group A",
@@ -6488,8 +6193,7 @@ export const fifaData = [
     "MatchID": 2349,
     "Home Team Initials": "FRG",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "14 Jun 1978 - 13:45",
     "Stage": "Group A",
@@ -6510,8 +6214,7 @@ export const fifaData = [
     "MatchID": 2220,
     "Home Team Initials": "NED",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "14 Jun 1978 - 16:45",
     "Stage": "Group B",
@@ -6532,8 +6235,7 @@ export const fifaData = [
     "MatchID": 2251,
     "Home Team Initials": "BRA",
     "Away Team Initials": "PER"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "14 Jun 1978 - 19:15",
     "Stage": "Group B",
@@ -6554,8 +6256,7 @@ export const fifaData = [
     "MatchID": 2202,
     "Home Team Initials": "ARG",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "18 Jun 1978 - 13:45",
     "Stage": "Group B",
@@ -6576,8 +6277,7 @@ export const fifaData = [
     "MatchID": 2450,
     "Home Team Initials": "POL",
     "Away Team Initials": "PER"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "18 Jun 1978 - 16:45",
     "Stage": "Group A",
@@ -6598,8 +6298,7 @@ export const fifaData = [
     "MatchID": 2221,
     "Home Team Initials": "ITA",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "18 Jun 1978 - 16:45",
     "Stage": "Group A",
@@ -6620,8 +6319,7 @@ export const fifaData = [
     "MatchID": 2348,
     "Home Team Initials": "FRG",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "18 Jun 1978 - 19:15",
     "Stage": "Group B",
@@ -6642,8 +6340,7 @@ export const fifaData = [
     "MatchID": 2196,
     "Home Team Initials": "ARG",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "21 Jun 1978 - 13:45",
     "Stage": "Group A",
@@ -6664,8 +6361,7 @@ export const fifaData = [
     "MatchID": 2391,
     "Home Team Initials": "NED",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "21 Jun 1978 - 13:45",
     "Stage": "Group A",
@@ -6686,8 +6382,7 @@ export const fifaData = [
     "MatchID": 2217,
     "Home Team Initials": "AUT",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "21 Jun 1978 - 16:45",
     "Stage": "Group B",
@@ -6708,8 +6403,7 @@ export const fifaData = [
     "MatchID": 2252,
     "Home Team Initials": "BRA",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "21 Jun 1978 - 19:15",
     "Stage": "Group B",
@@ -6730,8 +6424,7 @@ export const fifaData = [
     "MatchID": 2201,
     "Home Team Initials": "ARG",
     "Away Team Initials": "PER"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "24 Jun 1978 - 15:00",
     "Stage": "Match for third place",
@@ -6752,8 +6445,7 @@ export const fifaData = [
     "MatchID": 2247,
     "Home Team Initials": "BRA",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1978,
     "Datetime": "25 Jun 1978 - 15:00",
     "Stage": "Final",
@@ -6774,8 +6466,7 @@ export const fifaData = [
     "MatchID": 2198,
     "Home Team Initials": "ARG",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "13 Jun 1982 - 20:00",
     "Stage": "Group 3",
@@ -6796,8 +6487,7 @@ export const fifaData = [
     "MatchID": 749,
     "Home Team Initials": "ARG",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "14 Jun 1982 - 17:15",
     "Stage": "Group 1",
@@ -6818,8 +6508,7 @@ export const fifaData = [
     "MatchID": 995,
     "Home Team Initials": "ITA",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "14 Jun 1982 - 21:00",
     "Stage": "Group 6",
@@ -6840,8 +6529,7 @@ export const fifaData = [
     "MatchID": 791,
     "Home Team Initials": "BRA",
     "Away Team Initials": "URS"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "15 Jun 1982 - 17:15",
     "Stage": "Group 1",
@@ -6862,8 +6550,7 @@ export const fifaData = [
     "MatchID": 833,
     "Home Team Initials": "PER",
     "Away Team Initials": "CMR"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "15 Jun 1982 - 21:00",
     "Stage": "Group 3",
@@ -6884,8 +6571,7 @@ export const fifaData = [
     "MatchID": 896,
     "Home Team Initials": "HUN",
     "Away Team Initials": "SLV"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "15 Jun 1982 - 21:00",
     "Stage": "Group 6",
@@ -6906,8 +6592,7 @@ export const fifaData = [
     "MatchID": 1051,
     "Home Team Initials": "SCO",
     "Away Team Initials": "NZL"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "16 Jun 1982 - 17:15",
     "Stage": "Group 2",
@@ -6928,8 +6613,7 @@ export const fifaData = [
     "MatchID": 741,
     "Home Team Initials": "FRG",
     "Away Team Initials": "ALG"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "16 Jun 1982 - 17:15",
     "Stage": "Group 4",
@@ -6950,8 +6634,7 @@ export const fifaData = [
     "MatchID": 878,
     "Home Team Initials": "ENG",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "16 Jun 1982 - 21:00",
     "Stage": "Group 5",
@@ -6972,8 +6655,7 @@ export const fifaData = [
     "MatchID": 901,
     "Home Team Initials": "ESP",
     "Away Team Initials": "HON"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "17 Jun 1982 - 17:15",
     "Stage": "Group 2",
@@ -6994,8 +6676,7 @@ export const fifaData = [
     "MatchID": 764,
     "Home Team Initials": "CHI",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "17 Jun 1982 - 17:45",
     "Stage": "Group 4",
@@ -7016,8 +6697,7 @@ export const fifaData = [
     "MatchID": 1012,
     "Home Team Initials": "TCH",
     "Away Team Initials": "KUW"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "17 Jun 1982 - 21:00",
     "Stage": "Group 5",
@@ -7038,8 +6718,7 @@ export const fifaData = [
     "MatchID": 1044,
     "Home Team Initials": "YUG",
     "Away Team Initials": "NIR"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "18 Jun 1982 - 17:15",
     "Stage": "Group 1",
@@ -7060,8 +6739,7 @@ export const fifaData = [
     "MatchID": 994,
     "Home Team Initials": "ITA",
     "Away Team Initials": "PER"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "18 Jun 1982 - 21:00",
     "Stage": "Group 3",
@@ -7082,8 +6760,7 @@ export const fifaData = [
     "MatchID": 752,
     "Home Team Initials": "ARG",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "18 Jun 1982 - 21:00",
     "Stage": "Group 6",
@@ -7104,8 +6781,7 @@ export const fifaData = [
     "MatchID": 790,
     "Home Team Initials": "BRA",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "19 Jun 1982 - 19:15",
     "Stage": "Group 1",
@@ -7126,8 +6802,7 @@ export const fifaData = [
     "MatchID": 834,
     "Home Team Initials": "POL",
     "Away Team Initials": "CMR"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "19 Jun 1982 - 21:00",
     "Stage": "Group 3",
@@ -7148,8 +6823,7 @@ export const fifaData = [
     "MatchID": 774,
     "Home Team Initials": "BEL",
     "Away Team Initials": "SLV"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "19 Jun 1982 - 21:00",
     "Stage": "Group 6",
@@ -7170,8 +6844,7 @@ export const fifaData = [
     "MatchID": 1054,
     "Home Team Initials": "URS",
     "Away Team Initials": "NZL"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "20 Jun 1982 - 17:15",
     "Stage": "Group 2",
@@ -7192,8 +6865,7 @@ export const fifaData = [
     "MatchID": 813,
     "Home Team Initials": "FRG",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "20 Jun 1982 - 17:15",
     "Stage": "Group 4",
@@ -7214,8 +6886,7 @@ export const fifaData = [
     "MatchID": 889,
     "Home Team Initials": "ENG",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "20 Jun 1982 - 21:00",
     "Stage": "Group 5",
@@ -7236,8 +6907,7 @@ export const fifaData = [
     "MatchID": 903,
     "Home Team Initials": "ESP",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "21 Jun 1982 - 17:15",
     "Stage": "Group 2",
@@ -7258,8 +6928,7 @@ export const fifaData = [
     "MatchID": 739,
     "Home Team Initials": "ALG",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "21 Jun 1982 - 17:15",
     "Stage": "Group 4",
@@ -7280,8 +6949,7 @@ export const fifaData = [
     "MatchID": 919,
     "Home Team Initials": "FRA",
     "Away Team Initials": "KUW"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "21 Jun 1982 - 21:00",
     "Stage": "Group 5",
@@ -7302,8 +6970,7 @@ export const fifaData = [
     "MatchID": 959,
     "Home Team Initials": "HON",
     "Away Team Initials": "NIR"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "22 Jun 1982 - 17:15",
     "Stage": "Group 1",
@@ -7324,8 +6991,7 @@ export const fifaData = [
     "MatchID": 1055,
     "Home Team Initials": "POL",
     "Away Team Initials": "PER"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "22 Jun 1982 - 21:00",
     "Stage": "Group 3",
@@ -7346,8 +7012,7 @@ export const fifaData = [
     "MatchID": 779,
     "Home Team Initials": "BEL",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "22 Jun 1982 - 21:00",
     "Stage": "Group 6",
@@ -7368,8 +7033,7 @@ export const fifaData = [
     "MatchID": 1071,
     "Home Team Initials": "URS",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "23 Jun 1982 - 17:15",
     "Stage": "Group 1",
@@ -7390,8 +7054,7 @@ export const fifaData = [
     "MatchID": 828,
     "Home Team Initials": "ITA",
     "Away Team Initials": "CMR"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "23 Jun 1982 - 21:00",
     "Stage": "Group 3",
@@ -7412,8 +7075,7 @@ export const fifaData = [
     "MatchID": 751,
     "Home Team Initials": "ARG",
     "Away Team Initials": "SLV"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "23 Jun 1982 - 21:00",
     "Stage": "Group 6",
@@ -7434,8 +7096,7 @@ export const fifaData = [
     "MatchID": 789,
     "Home Team Initials": "BRA",
     "Away Team Initials": "NZL"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "24 Jun 1982 - 17:15",
     "Stage": "Group 2",
@@ -7456,8 +7117,7 @@ export const fifaData = [
     "MatchID": 740,
     "Home Team Initials": "ALG",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "24 Jun 1982 - 17:15",
     "Stage": "Group 4",
@@ -7478,8 +7138,7 @@ export const fifaData = [
     "MatchID": 922,
     "Home Team Initials": "FRA",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "24 Jun 1982 - 21:00",
     "Stage": "Group 5",
@@ -7500,8 +7159,7 @@ export const fifaData = [
     "MatchID": 962,
     "Home Team Initials": "HON",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "25 Jun 1982 - 17:15",
     "Stage": "Group 2",
@@ -7522,8 +7180,7 @@ export const fifaData = [
     "MatchID": 770,
     "Home Team Initials": "FRG",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "25 Jun 1982 - 17:15",
     "Stage": "Group 4",
@@ -7544,8 +7201,7 @@ export const fifaData = [
     "MatchID": 882,
     "Home Team Initials": "ENG",
     "Away Team Initials": "KUW"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "25 Jun 1982 - 21:00",
     "Stage": "Group 5",
@@ -7566,8 +7222,7 @@ export const fifaData = [
     "MatchID": 902,
     "Home Team Initials": "NIR",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "28 Jun 1982 - 17:15",
     "Stage": "Group 4",
@@ -7588,8 +7243,7 @@ export const fifaData = [
     "MatchID": 767,
     "Home Team Initials": "AUT",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "28 Jun 1982 - 21:00",
     "Stage": "Group 1",
@@ -7610,8 +7264,7 @@ export const fifaData = [
     "MatchID": 782,
     "Home Team Initials": "POL",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "29 Jun 1982 - 17:15",
     "Stage": "Group 3",
@@ -7632,8 +7285,7 @@ export const fifaData = [
     "MatchID": 753,
     "Home Team Initials": "ITA",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "29 Jun 1982 - 21:00",
     "Stage": "Group 2",
@@ -7654,8 +7306,7 @@ export const fifaData = [
     "MatchID": 879,
     "Home Team Initials": "FRG",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "01 Jul 1982 - 17:15",
     "Stage": "Group 4",
@@ -7676,8 +7327,7 @@ export const fifaData = [
     "MatchID": 771,
     "Home Team Initials": "AUT",
     "Away Team Initials": "NIR"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "01 Jul 1982 - 21:00",
     "Stage": "Group 1",
@@ -7698,8 +7348,7 @@ export const fifaData = [
     "MatchID": 783,
     "Home Team Initials": "BEL",
     "Away Team Initials": "URS"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "02 Jul 1982 - 17:15",
     "Stage": "Group 3",
@@ -7720,8 +7369,7 @@ export const fifaData = [
     "MatchID": 750,
     "Home Team Initials": "ARG",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "02 Jul 1982 - 21:00",
     "Stage": "Group 2",
@@ -7742,8 +7390,7 @@ export const fifaData = [
     "MatchID": 900,
     "Home Team Initials": "FRG",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "04 Jul 1982 - 17:15",
     "Stage": "Group 4",
@@ -7764,8 +7411,7 @@ export const fifaData = [
     "MatchID": 920,
     "Home Team Initials": "FRA",
     "Away Team Initials": "NIR"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "04 Jul 1982 - 21:00",
     "Stage": "Group 1",
@@ -7786,8 +7432,7 @@ export const fifaData = [
     "MatchID": 1058,
     "Home Team Initials": "POL",
     "Away Team Initials": "URS"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "05 Jul 1982 - 17:15",
     "Stage": "Group 3",
@@ -7808,8 +7453,7 @@ export const fifaData = [
     "MatchID": 788,
     "Home Team Initials": "ITA",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "05 Jul 1982 - 21:00",
     "Stage": "Group 2",
@@ -7830,8 +7474,7 @@ export const fifaData = [
     "MatchID": 877,
     "Home Team Initials": "ESP",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "08 Jul 1982 - 17:15",
     "Stage": "Semi-finals",
@@ -7852,8 +7495,7 @@ export const fifaData = [
     "MatchID": 996,
     "Home Team Initials": "POL",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "08 Jul 1982 - 21:00",
     "Stage": "Semi-finals",
@@ -7874,8 +7516,7 @@ export const fifaData = [
     "MatchID": 914,
     "Home Team Initials": "FRG",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "10 Jul 1982 - 20:00",
     "Stage": "Match for third place",
@@ -7896,8 +7537,7 @@ export const fifaData = [
     "MatchID": 921,
     "Home Team Initials": "POL",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1982,
     "Datetime": "11 Jul 1982 - 20:00",
     "Stage": "Final",
@@ -7918,8 +7558,7 @@ export const fifaData = [
     "MatchID": 923,
     "Home Team Initials": "ITA",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "31 May 1986 - 12:00",
     "Stage": "Group A",
@@ -7940,8 +7579,7 @@ export const fifaData = [
     "MatchID": 459,
     "Home Team Initials": "BUL",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "01 Jun 1986 - 16:00",
     "Stage": "Group C",
@@ -7962,8 +7600,7 @@ export const fifaData = [
     "MatchID": 468,
     "Home Team Initials": "CAN",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "01 Jun 1986 - 12:00",
     "Stage": "Group D",
@@ -7984,8 +7621,7 @@ export const fifaData = [
     "MatchID": 439,
     "Home Team Initials": "ESP",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "02 Jun 1986 - 12:00",
     "Stage": "Group C",
@@ -8006,8 +7642,7 @@ export const fifaData = [
     "MatchID": 610,
     "Home Team Initials": "URS",
     "Away Team Initials": "HUN"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "02 Jun 1986 - 12:00",
     "Stage": "Group A",
@@ -8028,8 +7663,7 @@ export const fifaData = [
     "MatchID": 395,
     "Home Team Initials": "ARG",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "02 Jun 1986 - 16:00",
     "Stage": "Group F",
@@ -8050,8 +7684,7 @@ export const fifaData = [
     "MatchID": 674,
     "Home Team Initials": "MAR",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "03 Jun 1986 - 12:00",
     "Stage": "Group D",
@@ -8072,8 +7705,7 @@ export const fifaData = [
     "MatchID": 379,
     "Home Team Initials": "ALG",
     "Away Team Initials": "NIR"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "03 Jun 1986 - 12:00",
     "Stage": "Group B",
@@ -8094,8 +7726,7 @@ export const fifaData = [
     "MatchID": 428,
     "Home Team Initials": "BEL",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "03 Jun 1986 - 16:00",
     "Stage": "Group F",
@@ -8116,8 +7747,7 @@ export const fifaData = [
     "MatchID": 538,
     "Home Team Initials": "POR",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "04 Jun 1986 - 12:00",
     "Stage": "Group B",
@@ -8138,8 +7768,7 @@ export const fifaData = [
     "MatchID": 628,
     "Home Team Initials": "PAR",
     "Away Team Initials": "IRQ"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "04 Jun 1986 - 16:00",
     "Stage": "Group E",
@@ -8160,8 +7789,7 @@ export const fifaData = [
     "MatchID": 517,
     "Home Team Initials": "SCO",
     "Away Team Initials": "DEN"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "04 Jun 1986 - 12:00",
     "Stage": "Group E",
@@ -8182,8 +7810,7 @@ export const fifaData = [
     "MatchID": 585,
     "Home Team Initials": "URU",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "05 Jun 1986 - 12:00",
     "Stage": "Group A",
@@ -8204,8 +7831,7 @@ export const fifaData = [
     "MatchID": 394,
     "Home Team Initials": "ITA",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "05 Jun 1986 - 12:00",
     "Stage": "Group C",
@@ -8226,8 +7852,7 @@ export const fifaData = [
     "MatchID": 571,
     "Home Team Initials": "FRA",
     "Away Team Initials": "URS"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "05 Jun 1986 - 16:00",
     "Stage": "Group A",
@@ -8248,8 +7873,7 @@ export const fifaData = [
     "MatchID": 460,
     "Home Team Initials": "KOR",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "06 Jun 1986 - 12:00",
     "Stage": "Group C",
@@ -8270,8 +7894,7 @@ export const fifaData = [
     "MatchID": 475,
     "Home Team Initials": "HUN",
     "Away Team Initials": "CAN"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "06 Jun 1986 - 12:00",
     "Stage": "Group D",
@@ -8292,8 +7915,7 @@ export const fifaData = [
     "MatchID": 377,
     "Home Team Initials": "BRA",
     "Away Team Initials": "ALG"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "06 Jun 1986 - 16:00",
     "Stage": "Group F",
@@ -8314,8 +7936,7 @@ export const fifaData = [
     "MatchID": 533,
     "Home Team Initials": "ENG",
     "Away Team Initials": "MAR"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "07 Jun 1986 - 12:00",
     "Stage": "Group D",
@@ -8336,8 +7957,7 @@ export const fifaData = [
     "MatchID": 551,
     "Home Team Initials": "NIR",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "07 Jun 1986 - 12:00",
     "Stage": "Group B",
@@ -8358,8 +7978,7 @@ export const fifaData = [
     "MatchID": 680,
     "Home Team Initials": "MEX",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "07 Jun 1986 - 16:00",
     "Stage": "Group F",
@@ -8380,8 +7999,7 @@ export const fifaData = [
     "MatchID": 701,
     "Home Team Initials": "POL",
     "Away Team Initials": "POR"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "08 Jun 1986 - 12:00",
     "Stage": "Group B",
@@ -8402,8 +8020,7 @@ export const fifaData = [
     "MatchID": 427,
     "Home Team Initials": "IRQ",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "08 Jun 1986 - 16:00",
     "Stage": "Group E",
@@ -8424,8 +8041,7 @@ export const fifaData = [
     "MatchID": 522,
     "Home Team Initials": "DEN",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "08 Jun 1986 - 12:00",
     "Stage": "Group E",
@@ -8446,8 +8062,7 @@ export const fifaData = [
     "MatchID": 580,
     "Home Team Initials": "FRG",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "09 Jun 1986 - 12:00",
     "Stage": "Group C",
@@ -8468,8 +8083,7 @@ export const fifaData = [
     "MatchID": 567,
     "Home Team Initials": "HUN",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "09 Jun 1986 - 12:00",
     "Stage": "Group C",
@@ -8490,8 +8104,7 @@ export const fifaData = [
     "MatchID": 476,
     "Home Team Initials": "URS",
     "Away Team Initials": "CAN"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "10 Jun 1986 - 12:00",
     "Stage": "Group A",
@@ -8512,8 +8125,7 @@ export const fifaData = [
     "MatchID": 643,
     "Home Team Initials": "KOR",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "10 Jun 1986 - 12:00",
     "Stage": "Group A",
@@ -8534,8 +8146,7 @@ export const fifaData = [
     "MatchID": 389,
     "Home Team Initials": "ARG",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "11 Jun 1986 - 12:00",
     "Stage": "Group B",
@@ -8556,8 +8167,7 @@ export const fifaData = [
     "MatchID": 429,
     "Home Team Initials": "PAR",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "11 Jun 1986 - 12:00",
     "Stage": "Group B",
@@ -8578,8 +8188,7 @@ export const fifaData = [
     "MatchID": 627,
     "Home Team Initials": "IRQ",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "11 Jun 1986 - 16:00",
     "Stage": "Group F",
@@ -8600,8 +8209,7 @@ export const fifaData = [
     "MatchID": 675,
     "Home Team Initials": "POR",
     "Away Team Initials": "MAR"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "11 Jun 1986 - 16:00",
     "Stage": "Group F",
@@ -8622,8 +8230,7 @@ export const fifaData = [
     "MatchID": 537,
     "Home Team Initials": "ENG",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "12 Jun 1986 - 12:00",
     "Stage": "Group D",
@@ -8644,8 +8251,7 @@ export const fifaData = [
     "MatchID": 441,
     "Home Team Initials": "NIR",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "12 Jun 1986 - 12:00",
     "Stage": "Group D",
@@ -8666,8 +8272,7 @@ export const fifaData = [
     "MatchID": 378,
     "Home Team Initials": "ALG",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "13 Jun 1986 - 12:00",
     "Stage": "Group E",
@@ -8688,8 +8293,7 @@ export const fifaData = [
     "MatchID": 712,
     "Home Team Initials": "SCO",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "13 Jun 1986 - 12:00",
     "Stage": "Group E",
@@ -8710,8 +8314,7 @@ export const fifaData = [
     "MatchID": 512,
     "Home Team Initials": "DEN",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "15 Jun 1986 - 16:00",
     "Stage": "Round of 16",
@@ -8732,8 +8335,7 @@ export const fifaData = [
     "MatchID": 432,
     "Home Team Initials": "URS",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "15 Jun 1986 - 12:00",
     "Stage": "Round of 16",
@@ -8754,8 +8356,7 @@ export const fifaData = [
     "MatchID": 463,
     "Home Team Initials": "MEX",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "16 Jun 1986 - 16:00",
     "Stage": "Round of 16",
@@ -8776,8 +8377,7 @@ export const fifaData = [
     "MatchID": 398,
     "Home Team Initials": "ARG",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "16 Jun 1986 - 12:00",
     "Stage": "Round of 16",
@@ -8798,8 +8398,7 @@ export const fifaData = [
     "MatchID": 444,
     "Home Team Initials": "BRA",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "17 Jun 1986 - 12:00",
     "Stage": "Round of 16",
@@ -8820,8 +8419,7 @@ export const fifaData = [
     "MatchID": 568,
     "Home Team Initials": "ITA",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "17 Jun 1986 - 16:00",
     "Stage": "Round of 16",
@@ -8842,8 +8440,7 @@ export const fifaData = [
     "MatchID": 574,
     "Home Team Initials": "MAR",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "18 Jun 1986 - 12:00",
     "Stage": "Round of 16",
@@ -8864,8 +8461,7 @@ export const fifaData = [
     "MatchID": 536,
     "Home Team Initials": "ENG",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "18 Jun 1986 - 16:00",
     "Stage": "Round of 16",
@@ -8886,8 +8482,7 @@ export const fifaData = [
     "MatchID": 511,
     "Home Team Initials": "DEN",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "21 Jun 1986 - 12:00",
     "Stage": "Quarter-finals",
@@ -8908,8 +8503,7 @@ export const fifaData = [
     "MatchID": 440,
     "Home Team Initials": "BRA",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "21 Jun 1986 - 16:00",
     "Stage": "Quarter-finals",
@@ -8930,8 +8524,7 @@ export const fifaData = [
     "MatchID": 575,
     "Home Team Initials": "FRG",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "22 Jun 1986 - 16:00",
     "Stage": "Quarter-finals",
@@ -8952,8 +8545,7 @@ export const fifaData = [
     "MatchID": 421,
     "Home Team Initials": "ESP",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "22 Jun 1986 - 12:00",
     "Stage": "Quarter-finals",
@@ -8974,8 +8566,7 @@ export const fifaData = [
     "MatchID": 392,
     "Home Team Initials": "ARG",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "25 Jun 1986 - 12:00",
     "Stage": "Semi-finals",
@@ -8996,8 +8587,7 @@ export const fifaData = [
     "MatchID": 564,
     "Home Team Initials": "FRA",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "25 Jun 1986 - 16:00",
     "Stage": "Semi-finals",
@@ -9018,8 +8608,7 @@ export const fifaData = [
     "MatchID": 388,
     "Home Team Initials": "ARG",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "28 Jun 1986 - 12:00",
     "Stage": "Match for third place",
@@ -9040,8 +8629,7 @@ export const fifaData = [
     "MatchID": 422,
     "Home Team Initials": "FRA",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1986,
     "Datetime": "29 Jun 1986 - 12:00",
     "Stage": "Final",
@@ -9062,8 +8650,7 @@ export const fifaData = [
     "MatchID": 393,
     "Home Team Initials": "ARG",
     "Away Team Initials": "FRG"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "08 Jun 1990 - 18:00",
     "Stage": "Group B",
@@ -9084,8 +8671,7 @@ export const fifaData = [
     "MatchID": 26,
     "Home Team Initials": "ARG",
     "Away Team Initials": "CMR"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "09 Jun 1990 - 17:00",
     "Stage": "Group B",
@@ -9106,8 +8692,7 @@ export const fifaData = [
     "MatchID": 342,
     "Home Team Initials": "URS",
     "Away Team Initials": "ROU"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "09 Jun 1990 - 17:00",
     "Stage": "Group D",
@@ -9128,8 +8713,7 @@ export const fifaData = [
     "MatchID": 119,
     "Home Team Initials": "UAE",
     "Away Team Initials": "COL"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "09 Jun 1990 - 21:00",
     "Stage": "Group A",
@@ -9150,8 +8734,7 @@ export const fifaData = [
     "MatchID": 42,
     "Home Team Initials": "ITA",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "10 Jun 1990 - 17:00",
     "Stage": "Group A",
@@ -9172,8 +8755,7 @@ export const fifaData = [
     "MatchID": 355,
     "Home Team Initials": "USA",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "10 Jun 1990 - 21:00",
     "Stage": "Group C",
@@ -9194,8 +8776,7 @@ export const fifaData = [
     "MatchID": 75,
     "Home Team Initials": "BRA",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "10 Jun 1990 - 21:00",
     "Stage": "Group D",
@@ -9216,8 +8797,7 @@ export const fifaData = [
     "MatchID": 201,
     "Home Team Initials": "FRG",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "11 Jun 1990 - 17:00",
     "Stage": "Group C",
@@ -9238,8 +8818,7 @@ export const fifaData = [
     "MatchID": 127,
     "Home Team Initials": "CRC",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "11 Jun 1990 - 21:00",
     "Stage": "Group F",
@@ -9260,8 +8839,7 @@ export const fifaData = [
     "MatchID": 161,
     "Home Team Initials": "ENG",
     "Away Team Initials": "IRL"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "12 Jun 1990 - 17:00",
     "Stage": "Group E",
@@ -9282,8 +8860,7 @@ export const fifaData = [
     "MatchID": 57,
     "Home Team Initials": "BEL",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "12 Jun 1990 - 21:00",
     "Stage": "Group F",
@@ -9304,8 +8881,7 @@ export const fifaData = [
     "MatchID": 151,
     "Home Team Initials": "NED",
     "Away Team Initials": "EGY"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "13 Jun 1990 - 17:00",
     "Stage": "Group E",
@@ -9326,8 +8902,7 @@ export const fifaData = [
     "MatchID": 180,
     "Home Team Initials": "URU",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "13 Jun 1990 - 21:00",
     "Stage": "Group B",
@@ -9348,8 +8923,7 @@ export const fifaData = [
     "MatchID": 30,
     "Home Team Initials": "ARG",
     "Away Team Initials": "URS"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "14 Jun 1990 - 17:00",
     "Stage": "Group B",
@@ -9370,8 +8944,7 @@ export const fifaData = [
     "MatchID": 108,
     "Home Team Initials": "CMR",
     "Away Team Initials": "ROU"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "14 Jun 1990 - 17:00",
     "Stage": "Group D",
@@ -9392,8 +8965,7 @@ export const fifaData = [
     "MatchID": 120,
     "Home Team Initials": "YUG",
     "Away Team Initials": "COL"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "14 Jun 1990 - 21:00",
     "Stage": "Group A",
@@ -9414,8 +8986,7 @@ export const fifaData = [
     "MatchID": 265,
     "Home Team Initials": "ITA",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "15 Jun 1990 - 17:00",
     "Stage": "Group A",
@@ -9436,8 +9007,7 @@ export const fifaData = [
     "MatchID": 43,
     "Home Team Initials": "AUT",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "15 Jun 1990 - 21:00",
     "Stage": "Group D",
@@ -9458,8 +9028,7 @@ export const fifaData = [
     "MatchID": 198,
     "Home Team Initials": "FRG",
     "Away Team Initials": "UAE"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "16 Jun 1990 - 17:00",
     "Stage": "Group C",
@@ -9480,8 +9049,7 @@ export const fifaData = [
     "MatchID": 73,
     "Home Team Initials": "BRA",
     "Away Team Initials": "CRC"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "16 Jun 1990 - 21:00",
     "Stage": "Group C",
@@ -9502,8 +9070,7 @@ export const fifaData = [
     "MatchID": 348,
     "Home Team Initials": "SWE",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "16 Jun 1990 - 21:00",
     "Stage": "Group F",
@@ -9524,8 +9091,7 @@ export const fifaData = [
     "MatchID": 160,
     "Home Team Initials": "ENG",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "17 Jun 1990 - 17:00",
     "Stage": "Group F",
@@ -9546,8 +9112,7 @@ export const fifaData = [
     "MatchID": 152,
     "Home Team Initials": "IRL",
     "Away Team Initials": "EGY"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "17 Jun 1990 - 21:00",
     "Stage": "Group E",
@@ -9568,8 +9133,7 @@ export const fifaData = [
     "MatchID": 175,
     "Home Team Initials": "KOR",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "17 Jun 1990 - 21:00",
     "Stage": "Group E",
@@ -9590,8 +9154,7 @@ export const fifaData = [
     "MatchID": 66,
     "Home Team Initials": "BEL",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "18 Jun 1990 - 21:00",
     "Stage": "Group B",
@@ -9612,8 +9175,7 @@ export const fifaData = [
     "MatchID": 29,
     "Home Team Initials": "ARG",
     "Away Team Initials": "ROU"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "18 Jun 1990 - 21:00",
     "Stage": "Group B",
@@ -9634,8 +9196,7 @@ export const fifaData = [
     "MatchID": 111,
     "Home Team Initials": "CMR",
     "Away Team Initials": "URS"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "19 Jun 1990 - 17:00",
     "Stage": "Group D",
@@ -9656,8 +9217,7 @@ export const fifaData = [
     "MatchID": 114,
     "Home Team Initials": "FRG",
     "Away Team Initials": "COL"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "19 Jun 1990 - 17:00",
     "Stage": "Group D",
@@ -9678,8 +9238,7 @@ export const fifaData = [
     "MatchID": 364,
     "Home Team Initials": "YUG",
     "Away Team Initials": "UAE"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "19 Jun 1990 - 21:00",
     "Stage": "Group A",
@@ -9700,8 +9259,7 @@ export const fifaData = [
     "MatchID": 263,
     "Home Team Initials": "ITA",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "19 Jun 1990 - 21:00",
     "Stage": "Group A",
@@ -9722,8 +9280,7 @@ export const fifaData = [
     "MatchID": 48,
     "Home Team Initials": "AUT",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "20 Jun 1990 - 21:00",
     "Stage": "Group C",
@@ -9744,8 +9301,7 @@ export const fifaData = [
     "MatchID": 74,
     "Home Team Initials": "BRA",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "20 Jun 1990 - 21:00",
     "Stage": "Group C",
@@ -9766,8 +9322,7 @@ export const fifaData = [
     "MatchID": 128,
     "Home Team Initials": "SWE",
     "Away Team Initials": "CRC"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "21 Jun 1990 - 17:00",
     "Stage": "Group E",
@@ -9788,8 +9343,7 @@ export const fifaData = [
     "MatchID": 290,
     "Home Team Initials": "KOR",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "21 Jun 1990 - 17:00",
     "Stage": "Group E",
@@ -9810,8 +9364,7 @@ export const fifaData = [
     "MatchID": 56,
     "Home Team Initials": "BEL",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "21 Jun 1990 - 21:00",
     "Stage": "Group F",
@@ -9832,8 +9385,7 @@ export const fifaData = [
     "MatchID": 228,
     "Home Team Initials": "IRL",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "21 Jun 1990 - 21:00",
     "Stage": "Group F",
@@ -9854,8 +9406,7 @@ export const fifaData = [
     "MatchID": 150,
     "Home Team Initials": "ENG",
     "Away Team Initials": "EGY"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "23 Jun 1990 - 17:00",
     "Stage": "Round of 16",
@@ -9876,8 +9427,7 @@ export const fifaData = [
     "MatchID": 102,
     "Home Team Initials": "CMR",
     "Away Team Initials": "COL"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "23 Jun 1990 - 21:00",
     "Stage": "Round of 16",
@@ -9898,8 +9448,7 @@ export const fifaData = [
     "MatchID": 129,
     "Home Team Initials": "TCH",
     "Away Team Initials": "CRC"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "24 Jun 1990 - 17:00",
     "Stage": "Round of 16",
@@ -9920,8 +9469,7 @@ export const fifaData = [
     "MatchID": 25,
     "Home Team Initials": "BRA",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "24 Jun 1990 - 21:00",
     "Stage": "Round of 16",
@@ -9942,8 +9490,7 @@ export const fifaData = [
     "MatchID": 196,
     "Home Team Initials": "FRG",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "25 Jun 1990 - 17:00",
     "Stage": "Round of 16",
@@ -9964,8 +9511,7 @@ export const fifaData = [
     "MatchID": 248,
     "Home Team Initials": "IRL",
     "Away Team Initials": "ROU"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "25 Jun 1990 - 21:00",
     "Stage": "Round of 16",
@@ -9986,8 +9532,7 @@ export const fifaData = [
     "MatchID": 264,
     "Home Team Initials": "ITA",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "26 Jun 1990 - 17:00",
     "Stage": "Round of 16",
@@ -10008,8 +9553,7 @@ export const fifaData = [
     "MatchID": 181,
     "Home Team Initials": "ESP",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "26 Jun 1990 - 21:00",
     "Stage": "Round of 16",
@@ -10030,8 +9574,7 @@ export const fifaData = [
     "MatchID": 55,
     "Home Team Initials": "ENG",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "30 Jun 1990 - 17:00",
     "Stage": "Quarter-finals",
@@ -10052,8 +9595,7 @@ export const fifaData = [
     "MatchID": 31,
     "Home Team Initials": "YUG",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "30 Jun 1990 - 21:00",
     "Stage": "Quarter-finals",
@@ -10074,8 +9616,7 @@ export const fifaData = [
     "MatchID": 243,
     "Home Team Initials": "ITA",
     "Away Team Initials": "IRL"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "01 Jul 1990 - 17:00",
     "Stage": "Quarter-finals",
@@ -10096,8 +9637,7 @@ export const fifaData = [
     "MatchID": 197,
     "Home Team Initials": "FRG",
     "Away Team Initials": "TCH"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "01 Jul 1990 - 21:00",
     "Stage": "Quarter-finals",
@@ -10118,8 +9658,7 @@ export const fifaData = [
     "MatchID": 103,
     "Home Team Initials": "ENG",
     "Away Team Initials": "CMR"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "03 Jul 1990 - 20:00",
     "Stage": "Semi-finals",
@@ -10140,8 +9679,7 @@ export const fifaData = [
     "MatchID": 28,
     "Home Team Initials": "ITA",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "04 Jul 1990 - 20:00",
     "Stage": "Semi-finals",
@@ -10162,8 +9700,7 @@ export const fifaData = [
     "MatchID": 159,
     "Home Team Initials": "FRG",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "07 Jul 1990 - 20:00",
     "Stage": "Match for third place",
@@ -10184,8 +9721,7 @@ export const fifaData = [
     "MatchID": 162,
     "Home Team Initials": "ITA",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1990,
     "Datetime": "08 Jul 1990 - 20:00",
     "Stage": "Final",
@@ -10206,8 +9742,7 @@ export const fifaData = [
     "MatchID": 27,
     "Home Team Initials": "FRG",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "17 Jun 1994 - 19:30",
     "Stage": "Group C",
@@ -10228,8 +9763,7 @@ export const fifaData = [
     "MatchID": 3050,
     "Home Team Initials": "ESP",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "17 Jun 1994 - 15:00",
     "Stage": "Group C",
@@ -10250,8 +9784,7 @@ export const fifaData = [
     "MatchID": 3049,
     "Home Team Initials": "GER",
     "Away Team Initials": "BOL"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "18 Jun 1994 - 11:30",
     "Stage": "Group A",
@@ -10272,8 +9805,7 @@ export const fifaData = [
     "MatchID": 3051,
     "Home Team Initials": "USA",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "18 Jun 1994 - 16:00",
     "Stage": "Group E",
@@ -10294,8 +9826,7 @@ export const fifaData = [
     "MatchID": 3052,
     "Home Team Initials": "ITA",
     "Away Team Initials": "IRL"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "18 Jun 1994 - 19:30",
     "Stage": "Group A",
@@ -10316,8 +9847,7 @@ export const fifaData = [
     "MatchID": 3053,
     "Home Team Initials": "COL",
     "Away Team Initials": "ROU"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "19 Jun 1994 - 12:30",
     "Stage": "Group F",
@@ -10338,8 +9868,7 @@ export const fifaData = [
     "MatchID": 3054,
     "Home Team Initials": "BEL",
     "Away Team Initials": "MAR"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "19 Jun 1994 - 16:00",
     "Stage": "Group E",
@@ -10360,8 +9889,7 @@ export const fifaData = [
     "MatchID": 3055,
     "Home Team Initials": "NOR",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "19 Jun 1994 - 19:30",
     "Stage": "Group B",
@@ -10382,8 +9910,7 @@ export const fifaData = [
     "MatchID": 3056,
     "Home Team Initials": "CMR",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "20 Jun 1994 - 19:30",
     "Stage": "Group F",
@@ -10404,8 +9931,7 @@ export const fifaData = [
     "MatchID": 3058,
     "Home Team Initials": "NED",
     "Away Team Initials": "KSA"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "20 Jun 1994 - 16:00",
     "Stage": "Group B",
@@ -10426,8 +9952,7 @@ export const fifaData = [
     "MatchID": 3057,
     "Home Team Initials": "BRA",
     "Away Team Initials": "RUS"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "21 Jun 1994 - 12:30",
     "Stage": "Group D",
@@ -10448,8 +9973,7 @@ export const fifaData = [
     "MatchID": 3059,
     "Home Team Initials": "ARG",
     "Away Team Initials": "GRE"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "21 Jun 1994 - 19:30",
     "Stage": "Group D",
@@ -10470,8 +9994,7 @@ export const fifaData = [
     "MatchID": 3061,
     "Home Team Initials": "NGA",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "21 Jun 1994 - 16:00",
     "Stage": "Group C",
@@ -10492,8 +10015,7 @@ export const fifaData = [
     "MatchID": 3060,
     "Home Team Initials": "GER",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "22 Jun 1994 - 16:00",
     "Stage": "Group A",
@@ -10514,8 +10036,7 @@ export const fifaData = [
     "MatchID": 3062,
     "Home Team Initials": "ROU",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "22 Jun 1994 - 19:30",
     "Stage": "Group A",
@@ -10536,8 +10057,7 @@ export const fifaData = [
     "MatchID": 3063,
     "Home Team Initials": "USA",
     "Away Team Initials": "COL"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "23 Jun 1994 - 16:00",
     "Stage": "Group E",
@@ -10558,8 +10078,7 @@ export const fifaData = [
     "MatchID": 3064,
     "Home Team Initials": "ITA",
     "Away Team Initials": "NOR"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "23 Jun 1994 - 19:30",
     "Stage": "Group C",
@@ -10580,8 +10099,7 @@ export const fifaData = [
     "MatchID": 3065,
     "Home Team Initials": "KOR",
     "Away Team Initials": "BOL"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "24 Jun 1994 - 12:30",
     "Stage": "Group E",
@@ -10602,8 +10120,7 @@ export const fifaData = [
     "MatchID": 3066,
     "Home Team Initials": "MEX",
     "Away Team Initials": "IRL"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "24 Jun 1994 - 19:30",
     "Stage": "Group B",
@@ -10624,8 +10141,7 @@ export const fifaData = [
     "MatchID": 3068,
     "Home Team Initials": "SWE",
     "Away Team Initials": "RUS"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "24 Jun 1994 - 16:00",
     "Stage": "Group B",
@@ -10646,8 +10162,7 @@ export const fifaData = [
     "MatchID": 3067,
     "Home Team Initials": "BRA",
     "Away Team Initials": "CMR"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "25 Jun 1994 - 12:30",
     "Stage": "Group F",
@@ -10668,8 +10183,7 @@ export const fifaData = [
     "MatchID": 3069,
     "Home Team Initials": "BEL",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "25 Jun 1994 - 12:30",
     "Stage": "Group F",
@@ -10690,8 +10204,7 @@ export const fifaData = [
     "MatchID": 3070,
     "Home Team Initials": "KSA",
     "Away Team Initials": "MAR"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "25 Jun 1994 - 16:00",
     "Stage": "Group D",
@@ -10712,8 +10225,7 @@ export const fifaData = [
     "MatchID": 3071,
     "Home Team Initials": "ARG",
     "Away Team Initials": "NGA"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "26 Jun 1994 - 12:30",
     "Stage": "Group D",
@@ -10734,8 +10246,7 @@ export const fifaData = [
     "MatchID": 3072,
     "Home Team Initials": "BUL",
     "Away Team Initials": "GRE"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "26 Jun 1994 - 16:00",
     "Stage": "Group A",
@@ -10756,8 +10267,7 @@ export const fifaData = [
     "MatchID": 3073,
     "Home Team Initials": "USA",
     "Away Team Initials": "ROU"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "26 Jun 1994 - 16:00",
     "Stage": "Group A",
@@ -10778,8 +10288,7 @@ export const fifaData = [
     "MatchID": 3074,
     "Home Team Initials": "SUI",
     "Away Team Initials": "COL"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "27 Jun 1994 - 16:00",
     "Stage": "Group C",
@@ -10800,8 +10309,7 @@ export const fifaData = [
     "MatchID": 3076,
     "Home Team Initials": "GER",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "27 Jun 1994 - 16:00",
     "Stage": "Group C",
@@ -10822,8 +10330,7 @@ export const fifaData = [
     "MatchID": 3075,
     "Home Team Initials": "BOL",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "28 Jun 1994 - 12:30",
     "Stage": "Group E",
@@ -10844,8 +10351,7 @@ export const fifaData = [
     "MatchID": 3077,
     "Home Team Initials": "IRL",
     "Away Team Initials": "NOR"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "28 Jun 1994 - 16:00",
     "Stage": "Group B",
@@ -10866,8 +10372,7 @@ export const fifaData = [
     "MatchID": 3080,
     "Home Team Initials": "BRA",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "28 Jun 1994 - 12:30",
     "Stage": "Group E",
@@ -10888,8 +10393,7 @@ export const fifaData = [
     "MatchID": 3078,
     "Home Team Initials": "ITA",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "28 Jun 1994 - 16:00",
     "Stage": "Group B",
@@ -10910,8 +10414,7 @@ export const fifaData = [
     "MatchID": 3079,
     "Home Team Initials": "RUS",
     "Away Team Initials": "CMR"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "29 Jun 1994 - 12:30",
     "Stage": "Group F",
@@ -10932,8 +10435,7 @@ export const fifaData = [
     "MatchID": 3081,
     "Home Team Initials": "MAR",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "29 Jun 1994 - 12:30",
     "Stage": "Group F",
@@ -10954,8 +10456,7 @@ export const fifaData = [
     "MatchID": 3082,
     "Home Team Initials": "BEL",
     "Away Team Initials": "KSA"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "30 Jun 1994 - 19:30",
     "Stage": "Group D",
@@ -10976,8 +10477,7 @@ export const fifaData = [
     "MatchID": 3083,
     "Home Team Initials": "GRE",
     "Away Team Initials": "NGA"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "30 Jun 1994 - 19:30",
     "Stage": "Group D",
@@ -10998,8 +10498,7 @@ export const fifaData = [
     "MatchID": 3084,
     "Home Team Initials": "ARG",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "02 Jul 1994 - 12:00",
     "Stage": "Round of 16",
@@ -11020,8 +10519,7 @@ export const fifaData = [
     "MatchID": 3085,
     "Home Team Initials": "GER",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "02 Jul 1994 - 16:30",
     "Stage": "Round of 16",
@@ -11042,8 +10540,7 @@ export const fifaData = [
     "MatchID": 3086,
     "Home Team Initials": "ESP",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "03 Jul 1994 - 12:00",
     "Stage": "Round of 16",
@@ -11064,8 +10561,7 @@ export const fifaData = [
     "MatchID": 3087,
     "Home Team Initials": "KSA",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "03 Jul 1994 - 13:30",
     "Stage": "Round of 16",
@@ -11086,8 +10582,7 @@ export const fifaData = [
     "MatchID": 3088,
     "Home Team Initials": "ROU",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "04 Jul 1994 - 12:00",
     "Stage": "Round of 16",
@@ -11108,8 +10603,7 @@ export const fifaData = [
     "MatchID": 3089,
     "Home Team Initials": "NED",
     "Away Team Initials": "IRL"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "04 Jul 1994 - 12:30",
     "Stage": "Round of 16",
@@ -11130,8 +10624,7 @@ export const fifaData = [
     "MatchID": 3090,
     "Home Team Initials": "BRA",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "05 Jul 1994 - 13:00",
     "Stage": "Round of 16",
@@ -11152,8 +10645,7 @@ export const fifaData = [
     "MatchID": 3091,
     "Home Team Initials": "NGA",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "05 Jul 1994 - 16:30",
     "Stage": "Round of 16",
@@ -11174,8 +10666,7 @@ export const fifaData = [
     "MatchID": 3092,
     "Home Team Initials": "MEX",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "09 Jul 1994 - 12:00",
     "Stage": "Quarter-finals",
@@ -11196,8 +10687,7 @@ export const fifaData = [
     "MatchID": 3097,
     "Home Team Initials": "ITA",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "09 Jul 1994 - 14:30",
     "Stage": "Quarter-finals",
@@ -11218,8 +10708,7 @@ export const fifaData = [
     "MatchID": 3098,
     "Home Team Initials": "NED",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "10 Jul 1994 - 12:00",
     "Stage": "Quarter-finals",
@@ -11240,8 +10729,7 @@ export const fifaData = [
     "MatchID": 3096,
     "Home Team Initials": "BUL",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "10 Jul 1994 - 12:30",
     "Stage": "Quarter-finals",
@@ -11262,8 +10750,7 @@ export const fifaData = [
     "MatchID": 3095,
     "Home Team Initials": "ROU",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "13 Jul 1994 - 16:00",
     "Stage": "Semi-finals",
@@ -11284,8 +10771,7 @@ export const fifaData = [
     "MatchID": 3100,
     "Home Team Initials": "BUL",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "13 Jul 1994 - 16:30",
     "Stage": "Semi-finals",
@@ -11306,8 +10792,7 @@ export const fifaData = [
     "MatchID": 3099,
     "Home Team Initials": "SWE",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "16 Jul 1994 - 12:30",
     "Stage": "Match for third place",
@@ -11328,8 +10813,7 @@ export const fifaData = [
     "MatchID": 3103,
     "Home Team Initials": "SWE",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1994,
     "Datetime": "17 Jul 1994 - 12:30",
     "Stage": "Final",
@@ -11350,8 +10834,7 @@ export const fifaData = [
     "MatchID": 3104,
     "Home Team Initials": "BRA",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "10 Jun 1998 - 17:30",
     "Stage": "Group A",
@@ -11372,8 +10855,7 @@ export const fifaData = [
     "MatchID": 4000,
     "Home Team Initials": "BRA",
     "Away Team Initials": "SCO"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "10 Jun 1998 - 21:00",
     "Stage": "Group A",
@@ -11394,8 +10876,7 @@ export const fifaData = [
     "MatchID": 8725,
     "Home Team Initials": "MAR",
     "Away Team Initials": "NOR"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "11 Jun 1998 - 17:30",
     "Stage": "Group B",
@@ -11416,8 +10897,7 @@ export const fifaData = [
     "MatchID": 8726,
     "Home Team Initials": "ITA",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "11 Jun 1998 - 21:00",
     "Stage": "Group B",
@@ -11438,8 +10918,7 @@ export const fifaData = [
     "MatchID": 8727,
     "Home Team Initials": "CMR",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "12 Jun 1998 - 14:30",
     "Stage": "Group D",
@@ -11460,8 +10939,7 @@ export const fifaData = [
     "MatchID": 8728,
     "Home Team Initials": "PAR",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "12 Jun 1998 - 17:30",
     "Stage": "Group C",
@@ -11482,8 +10960,7 @@ export const fifaData = [
     "MatchID": 8729,
     "Home Team Initials": "KSA",
     "Away Team Initials": "DEN"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "12 Jun 1998 - 21:00",
     "Stage": "Group C",
@@ -11504,8 +10981,7 @@ export const fifaData = [
     "MatchID": 8730,
     "Home Team Initials": "FRA",
     "Away Team Initials": "RSA"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "13 Jun 1998 - 14:30",
     "Stage": "Group D",
@@ -11526,8 +11002,7 @@ export const fifaData = [
     "MatchID": 8731,
     "Home Team Initials": "ESP",
     "Away Team Initials": "NGA"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "13 Jun 1998 - 17:30",
     "Stage": "Group E",
@@ -11548,8 +11023,7 @@ export const fifaData = [
     "MatchID": 8732,
     "Home Team Initials": "KOR",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "13 Jun 1998 - 21:00",
     "Stage": "Group E",
@@ -11570,8 +11044,7 @@ export const fifaData = [
     "MatchID": 8733,
     "Home Team Initials": "NED",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "14 Jun 1998 - 14:30",
     "Stage": "Group H",
@@ -11592,8 +11065,7 @@ export const fifaData = [
     "MatchID": 8734,
     "Home Team Initials": "ARG",
     "Away Team Initials": "JPN"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "14 Jun 1998 - 17:30",
     "Stage": "Group F",
@@ -11614,8 +11086,7 @@ export const fifaData = [
     "MatchID": 8735,
     "Home Team Initials": "YUG",
     "Away Team Initials": "IRN"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "14 Jun 1998 - 21:00",
     "Stage": "Group H",
@@ -11636,8 +11107,7 @@ export const fifaData = [
     "MatchID": 8736,
     "Home Team Initials": "JAM",
     "Away Team Initials": "CRO"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "15 Jun 1998 - 14:30",
     "Stage": "Group G",
@@ -11658,8 +11128,7 @@ export const fifaData = [
     "MatchID": 8740,
     "Home Team Initials": "ENG",
     "Away Team Initials": "TUN"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "15 Jun 1998 - 17:30",
     "Stage": "Group G",
@@ -11680,8 +11149,7 @@ export const fifaData = [
     "MatchID": 8739,
     "Home Team Initials": "ROU",
     "Away Team Initials": "COL"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "15 Jun 1998 - 21:00",
     "Stage": "Group F",
@@ -11702,8 +11170,7 @@ export const fifaData = [
     "MatchID": 8738,
     "Home Team Initials": "GER",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "16 Jun 1998 - 17:30",
     "Stage": "Group A",
@@ -11724,8 +11191,7 @@ export const fifaData = [
     "MatchID": 8741,
     "Home Team Initials": "SCO",
     "Away Team Initials": "NOR"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "16 Jun 1998 - 21:00",
     "Stage": "Group A",
@@ -11746,8 +11212,7 @@ export const fifaData = [
     "MatchID": 8742,
     "Home Team Initials": "BRA",
     "Away Team Initials": "MAR"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "17 Jun 1998 - 17:30",
     "Stage": "Group B",
@@ -11768,8 +11233,7 @@ export const fifaData = [
     "MatchID": 8743,
     "Home Team Initials": "CHI",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "17 Jun 1998 - 21:00",
     "Stage": "Group B",
@@ -11790,8 +11254,7 @@ export const fifaData = [
     "MatchID": 8744,
     "Home Team Initials": "ITA",
     "Away Team Initials": "CMR"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "18 Jun 1998 - 17:30",
     "Stage": "Group C",
@@ -11812,8 +11275,7 @@ export const fifaData = [
     "MatchID": 8746,
     "Home Team Initials": "RSA",
     "Away Team Initials": "DEN"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "18 Jun 1998 - 21:00",
     "Stage": "Group C",
@@ -11834,8 +11296,7 @@ export const fifaData = [
     "MatchID": 8745,
     "Home Team Initials": "FRA",
     "Away Team Initials": "KSA"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "19 Jun 1998 - 17:30",
     "Stage": "Group D",
@@ -11856,8 +11317,7 @@ export const fifaData = [
     "MatchID": 8747,
     "Home Team Initials": "NGA",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "19 Jun 1998 - 21:00",
     "Stage": "Group D",
@@ -11878,8 +11338,7 @@ export const fifaData = [
     "MatchID": 8748,
     "Home Team Initials": "ESP",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "20 Jun 1998 - 14:30",
     "Stage": "Group H",
@@ -11900,8 +11359,7 @@ export const fifaData = [
     "MatchID": 8751,
     "Home Team Initials": "JPN",
     "Away Team Initials": "CRO"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "20 Jun 1998 - 17:30",
     "Stage": "Group E",
@@ -11922,8 +11380,7 @@ export const fifaData = [
     "MatchID": 8750,
     "Home Team Initials": "BEL",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "20 Jun 1998 - 21:00",
     "Stage": "Group E",
@@ -11944,8 +11401,7 @@ export const fifaData = [
     "MatchID": 8749,
     "Home Team Initials": "NED",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "21 Jun 1998 - 14:30",
     "Stage": "Group F",
@@ -11966,8 +11422,7 @@ export const fifaData = [
     "MatchID": 8753,
     "Home Team Initials": "GER",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "21 Jun 1998 - 17:30",
     "Stage": "Group H",
@@ -11988,8 +11443,7 @@ export const fifaData = [
     "MatchID": 8752,
     "Home Team Initials": "ARG",
     "Away Team Initials": "JAM"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "21 Jun 1998 - 21:00",
     "Stage": "Group F",
@@ -12010,8 +11464,7 @@ export const fifaData = [
     "MatchID": 8754,
     "Home Team Initials": "USA",
     "Away Team Initials": "IRN"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "22 Jun 1998 - 17:30",
     "Stage": "Group G",
@@ -12032,8 +11485,7 @@ export const fifaData = [
     "MatchID": 8755,
     "Home Team Initials": "COL",
     "Away Team Initials": "TUN"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "22 Jun 1998 - 21:00",
     "Stage": "Group G",
@@ -12054,8 +11506,7 @@ export const fifaData = [
     "MatchID": 8756,
     "Home Team Initials": "ROU",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "23 Jun 1998 - 16:00",
     "Stage": "Group B",
@@ -12076,8 +11527,7 @@ export const fifaData = [
     "MatchID": 8757,
     "Home Team Initials": "ITA",
     "Away Team Initials": "AUT"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "23 Jun 1998 - 16:00",
     "Stage": "Group B",
@@ -12098,8 +11548,7 @@ export const fifaData = [
     "MatchID": 8760,
     "Home Team Initials": "CHI",
     "Away Team Initials": "CMR"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "23 Jun 1998 - 21:00",
     "Stage": "Group A",
@@ -12120,8 +11569,7 @@ export const fifaData = [
     "MatchID": 8758,
     "Home Team Initials": "SCO",
     "Away Team Initials": "MAR"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "23 Jun 1998 - 21:00",
     "Stage": "Group A",
@@ -12142,8 +11590,7 @@ export const fifaData = [
     "MatchID": 8759,
     "Home Team Initials": "BRA",
     "Away Team Initials": "NOR"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "24 Jun 1998 - 16:00",
     "Stage": "Group C",
@@ -12164,8 +11611,7 @@ export const fifaData = [
     "MatchID": 8762,
     "Home Team Initials": "FRA",
     "Away Team Initials": "DEN"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "24 Jun 1998 - 16:00",
     "Stage": "Group C",
@@ -12186,8 +11632,7 @@ export const fifaData = [
     "MatchID": 8764,
     "Home Team Initials": "RSA",
     "Away Team Initials": "KSA"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "24 Jun 1998 - 21:00",
     "Stage": "Group D",
@@ -12208,8 +11653,7 @@ export const fifaData = [
     "MatchID": 8761,
     "Home Team Initials": "ESP",
     "Away Team Initials": "BUL"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "24 Jun 1998 - 21:00",
     "Stage": "Group D",
@@ -12230,8 +11674,7 @@ export const fifaData = [
     "MatchID": 8763,
     "Home Team Initials": "NGA",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "25 Jun 1998 - 16:00",
     "Stage": "Group E",
@@ -12252,8 +11695,7 @@ export const fifaData = [
     "MatchID": 8765,
     "Home Team Initials": "BEL",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "25 Jun 1998 - 16:00",
     "Stage": "Group E",
@@ -12274,8 +11716,7 @@ export const fifaData = [
     "MatchID": 8766,
     "Home Team Initials": "NED",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "25 Jun 1998 - 21:00",
     "Stage": "Group F",
@@ -12296,8 +11737,7 @@ export const fifaData = [
     "MatchID": 8767,
     "Home Team Initials": "GER",
     "Away Team Initials": "IRN"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "25 Jun 1998 - 21:00",
     "Stage": "Group F",
@@ -12318,8 +11758,7 @@ export const fifaData = [
     "MatchID": 8768,
     "Home Team Initials": "USA",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "26 Jun 1998 - 16:00",
     "Stage": "Group H",
@@ -12340,8 +11779,7 @@ export const fifaData = [
     "MatchID": 8771,
     "Home Team Initials": "JPN",
     "Away Team Initials": "JAM"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "26 Jun 1998 - 16:00",
     "Stage": "Group H",
@@ -12362,8 +11800,7 @@ export const fifaData = [
     "MatchID": 8772,
     "Home Team Initials": "ARG",
     "Away Team Initials": "CRO"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "26 Jun 1998 - 21:00",
     "Stage": "Group G",
@@ -12384,8 +11821,7 @@ export const fifaData = [
     "MatchID": 8769,
     "Home Team Initials": "ROU",
     "Away Team Initials": "TUN"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "26 Jun 1998 - 21:00",
     "Stage": "Group G",
@@ -12406,8 +11842,7 @@ export const fifaData = [
     "MatchID": 8770,
     "Home Team Initials": "COL",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "27 Jun 1998 - 16:30",
     "Stage": "Round of 16",
@@ -12428,8 +11863,7 @@ export const fifaData = [
     "MatchID": 8774,
     "Home Team Initials": "ITA",
     "Away Team Initials": "NOR"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "27 Jun 1998 - 21:00",
     "Stage": "Round of 16",
@@ -12450,8 +11884,7 @@ export const fifaData = [
     "MatchID": 8773,
     "Home Team Initials": "BRA",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "28 Jun 1998 - 16:30",
     "Stage": "Round of 16",
@@ -12472,8 +11905,7 @@ export const fifaData = [
     "MatchID": 8776,
     "Home Team Initials": "FRA",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "28 Jun 1998 - 21:00",
     "Stage": "Round of 16",
@@ -12494,8 +11926,7 @@ export const fifaData = [
     "MatchID": 8775,
     "Home Team Initials": "NGA",
     "Away Team Initials": "DEN"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "29 Jun 1998 - 16:30",
     "Stage": "Round of 16",
@@ -12516,8 +11947,7 @@ export const fifaData = [
     "MatchID": 8777,
     "Home Team Initials": "GER",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "29 Jun 1998 - 21:00",
     "Stage": "Round of 16",
@@ -12538,8 +11968,7 @@ export const fifaData = [
     "MatchID": 8778,
     "Home Team Initials": "NED",
     "Away Team Initials": "YUG"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "30 Jun 1998 - 16:30",
     "Stage": "Round of 16",
@@ -12560,8 +11989,7 @@ export const fifaData = [
     "MatchID": 8780,
     "Home Team Initials": "ROU",
     "Away Team Initials": "CRO"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "30 Jun 1998 - 21:00",
     "Stage": "Round of 16",
@@ -12582,8 +12010,7 @@ export const fifaData = [
     "MatchID": 8779,
     "Home Team Initials": "ARG",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "03 Jul 1998 - 16:30",
     "Stage": "Quarter-finals",
@@ -12604,8 +12031,7 @@ export const fifaData = [
     "MatchID": 8781,
     "Home Team Initials": "ITA",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "03 Jul 1998 - 21:00",
     "Stage": "Quarter-finals",
@@ -12626,8 +12052,7 @@ export const fifaData = [
     "MatchID": 8782,
     "Home Team Initials": "BRA",
     "Away Team Initials": "DEN"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "04 Jul 1998 - 16:30",
     "Stage": "Quarter-finals",
@@ -12648,8 +12073,7 @@ export const fifaData = [
     "MatchID": 8784,
     "Home Team Initials": "NED",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "04 Jul 1998 - 21:00",
     "Stage": "Quarter-finals",
@@ -12670,8 +12094,7 @@ export const fifaData = [
     "MatchID": 8783,
     "Home Team Initials": "GER",
     "Away Team Initials": "CRO"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "07 Jul 1998 - 21:00",
     "Stage": "Semi-finals",
@@ -12692,8 +12115,7 @@ export const fifaData = [
     "MatchID": 8785,
     "Home Team Initials": "BRA",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "08 Jul 1998 - 21:00",
     "Stage": "Semi-finals",
@@ -12714,8 +12136,7 @@ export const fifaData = [
     "MatchID": 8786,
     "Home Team Initials": "FRA",
     "Away Team Initials": "CRO"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "11 Jul 1998 - 21:00",
     "Stage": "Match for third place",
@@ -12736,8 +12157,7 @@ export const fifaData = [
     "MatchID": 8787,
     "Home Team Initials": "NED",
     "Away Team Initials": "CRO"
-  },
-  {
+}, {
     "Year": 1998,
     "Datetime": "12 Jul 1998 - 21:00",
     "Stage": "Final",
@@ -12758,8 +12178,7 @@ export const fifaData = [
     "MatchID": 8788,
     "Home Team Initials": "BRA",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "31 May 2002 - 20:30",
     "Stage": "Group A",
@@ -12780,8 +12199,7 @@ export const fifaData = [
     "MatchID": 43950001,
     "Home Team Initials": "FRA",
     "Away Team Initials": "SEN"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "01 Jun 2002 - 18:00",
     "Stage": "Group A",
@@ -12802,8 +12220,7 @@ export const fifaData = [
     "MatchID": 43950003,
     "Home Team Initials": "URU",
     "Away Team Initials": "DEN"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "01 Jun 2002 - 15:30",
     "Stage": "Group E",
@@ -12824,8 +12241,7 @@ export const fifaData = [
     "MatchID": 43950002,
     "Home Team Initials": "IRL",
     "Away Team Initials": "CMR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "01 Jun 2002 - 20:30",
     "Stage": "Group E",
@@ -12846,8 +12262,7 @@ export const fifaData = [
     "MatchID": 43950004,
     "Home Team Initials": "GER",
     "Away Team Initials": "KSA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "02 Jun 2002 - 14:30",
     "Stage": "Group F",
@@ -12868,8 +12283,7 @@ export const fifaData = [
     "MatchID": 43950007,
     "Home Team Initials": "ARG",
     "Away Team Initials": "NGA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "02 Jun 2002 - 16:30",
     "Stage": "Group B",
@@ -12890,8 +12304,7 @@ export const fifaData = [
     "MatchID": 43950006,
     "Home Team Initials": "PAR",
     "Away Team Initials": "RSA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "02 Jun 2002 - 18:30",
     "Stage": "Group F",
@@ -12912,8 +12325,7 @@ export const fifaData = [
     "MatchID": 43950005,
     "Home Team Initials": "ENG",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "02 Jun 2002 - 20:30",
     "Stage": "Group B",
@@ -12934,8 +12346,7 @@ export const fifaData = [
     "MatchID": 43950008,
     "Home Team Initials": "ESP",
     "Away Team Initials": "SVN"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "03 June 2002 - 18:00",
     "Stage": "Group C",
@@ -12956,8 +12367,7 @@ export const fifaData = [
     "MatchID": 43950010,
     "Home Team Initials": "BRA",
     "Away Team Initials": "TUR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "03 Jun 2002 - 20:30",
     "Stage": "Group G",
@@ -12978,8 +12388,7 @@ export const fifaData = [
     "MatchID": 43950011,
     "Home Team Initials": "ITA",
     "Away Team Initials": "ECU"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "03 Jun 2002 - 15:30",
     "Stage": "Group G",
@@ -13000,8 +12409,7 @@ export const fifaData = [
     "MatchID": 43950009,
     "Home Team Initials": "CRO",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "04 June 2002 - 15:30",
     "Stage": "Group C",
@@ -13022,8 +12430,7 @@ export const fifaData = [
     "MatchID": 43950012,
     "Home Team Initials": "CHN",
     "Away Team Initials": "CRC"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "04 June 2002 - 18:00",
     "Stage": "Group H",
@@ -13044,8 +12451,7 @@ export const fifaData = [
     "MatchID": 43950013,
     "Home Team Initials": "JPN",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "04 Jun 2002 - 20:30",
     "Stage": "Group D",
@@ -13066,8 +12472,7 @@ export const fifaData = [
     "MatchID": 43950014,
     "Home Team Initials": "KOR",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "05 Jun 2002 - 15:30",
     "Stage": "Group H",
@@ -13088,8 +12493,7 @@ export const fifaData = [
     "MatchID": 43950015,
     "Home Team Initials": "RUS",
     "Away Team Initials": "TUN"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "05 Jun 2002 - 18:00",
     "Stage": "Group D",
@@ -13110,8 +12514,7 @@ export const fifaData = [
     "MatchID": 43950016,
     "Home Team Initials": "USA",
     "Away Team Initials": "POR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "05 Jun 2002 - 20:30",
     "Stage": "Group E",
@@ -13132,8 +12535,7 @@ export const fifaData = [
     "MatchID": 43950017,
     "Home Team Initials": "GER",
     "Away Team Initials": "IRL"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "06 Jun 2002 - 15:30",
     "Stage": "Group A",
@@ -13154,8 +12556,7 @@ export const fifaData = [
     "MatchID": 43950020,
     "Home Team Initials": "DEN",
     "Away Team Initials": "SEN"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "06 Jun 2002 - 18:00",
     "Stage": "Group E",
@@ -13176,8 +12577,7 @@ export const fifaData = [
     "MatchID": 43950019,
     "Home Team Initials": "CMR",
     "Away Team Initials": "KSA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "06 Jun 2002 - 20:30",
     "Stage": "Group A",
@@ -13198,8 +12598,7 @@ export const fifaData = [
     "MatchID": 43950018,
     "Home Team Initials": "FRA",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "07 Jun 2002 - 15:30",
     "Stage": "Group F",
@@ -13220,8 +12619,7 @@ export const fifaData = [
     "MatchID": 43950021,
     "Home Team Initials": "SWE",
     "Away Team Initials": "NGA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "07 Jun 2002 - 20:30",
     "Stage": "Group F",
@@ -13242,8 +12640,7 @@ export const fifaData = [
     "MatchID": 43950023,
     "Home Team Initials": "ARG",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "07 June 2002 - 18:00",
     "Stage": "Group B",
@@ -13264,8 +12661,7 @@ export const fifaData = [
     "MatchID": 43950022,
     "Home Team Initials": "ESP",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "08 Jun 2002 - 15:30",
     "Stage": "Group B",
@@ -13286,8 +12682,7 @@ export const fifaData = [
     "MatchID": 43950024,
     "Home Team Initials": "RSA",
     "Away Team Initials": "SVN"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "08 Jun 2002 - 20:30",
     "Stage": "Group C",
@@ -13308,8 +12703,7 @@ export const fifaData = [
     "MatchID": 43950026,
     "Home Team Initials": "BRA",
     "Away Team Initials": "CHN"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "08 June 2002 - 18:00",
     "Stage": "Group G",
@@ -13330,8 +12724,7 @@ export const fifaData = [
     "MatchID": 43950025,
     "Home Team Initials": "ITA",
     "Away Team Initials": "CRO"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "09 Jun 2002 - 18:00",
     "Stage": "Group C",
@@ -13352,8 +12745,7 @@ export const fifaData = [
     "MatchID": 43950028,
     "Home Team Initials": "CRC",
     "Away Team Initials": "TUR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "09 Jun 2002 - 20:30",
     "Stage": "Group H",
@@ -13374,8 +12766,7 @@ export const fifaData = [
     "MatchID": 43950029,
     "Home Team Initials": "JPN",
     "Away Team Initials": "RUS"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "09 Jun 2002 - 15:30",
     "Stage": "Group G",
@@ -13396,8 +12787,7 @@ export const fifaData = [
     "MatchID": 43950027,
     "Home Team Initials": "MEX",
     "Away Team Initials": "ECU"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "10 Jun 2002 - 15:30",
     "Stage": "Group D",
@@ -13418,8 +12808,7 @@ export const fifaData = [
     "MatchID": 43950030,
     "Home Team Initials": "KOR",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "10 Jun 2002 - 20:30",
     "Stage": "Group D",
@@ -13440,8 +12829,7 @@ export const fifaData = [
     "MatchID": 43950032,
     "Home Team Initials": "POR",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "10 Jun 2002 - 18:00",
     "Stage": "Group H",
@@ -13462,8 +12850,7 @@ export const fifaData = [
     "MatchID": 43950031,
     "Home Team Initials": "TUN",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "11 Jun 2002 - 15:30",
     "Stage": "Group A",
@@ -13484,8 +12871,7 @@ export const fifaData = [
     "MatchID": 43950033,
     "Home Team Initials": "DEN",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "11 June 2002 - 15:30",
     "Stage": "Group A",
@@ -13506,8 +12892,7 @@ export const fifaData = [
     "MatchID": 43950034,
     "Home Team Initials": "SEN",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "11 Jun 2002 - 20:30",
     "Stage": "Group E",
@@ -13528,8 +12913,7 @@ export const fifaData = [
     "MatchID": 43950036,
     "Home Team Initials": "KSA",
     "Away Team Initials": "IRL"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "11 Jun 2002 - 20:30",
     "Stage": "Group E",
@@ -13550,8 +12934,7 @@ export const fifaData = [
     "MatchID": 43950035,
     "Home Team Initials": "CMR",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "12 Jun 2002 - 15:30",
     "Stage": "Group F",
@@ -13572,8 +12955,7 @@ export const fifaData = [
     "MatchID": 43950037,
     "Home Team Initials": "SWE",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "12 Jun 2002 - 15:30",
     "Stage": "Group F",
@@ -13594,8 +12976,7 @@ export const fifaData = [
     "MatchID": 43950038,
     "Home Team Initials": "NGA",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "12 Jun 2002 - 20:30",
     "Stage": "Group B",
@@ -13616,8 +12997,7 @@ export const fifaData = [
     "MatchID": 43950040,
     "Home Team Initials": "SVN",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "12 Jun 2002 - 20:30",
     "Stage": "Group B",
@@ -13638,8 +13018,7 @@ export const fifaData = [
     "MatchID": 43950039,
     "Home Team Initials": "RSA",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "13 Jun 2002 - 15:30",
     "Stage": "Group C",
@@ -13660,8 +13039,7 @@ export const fifaData = [
     "MatchID": 43950041,
     "Home Team Initials": "CRC",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "13 Jun 2002 - 15:30",
     "Stage": "Group C",
@@ -13682,8 +13060,7 @@ export const fifaData = [
     "MatchID": 43950042,
     "Home Team Initials": "TUR",
     "Away Team Initials": "CHN"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "13 Jun 2002 - 20:30",
     "Stage": "Group G",
@@ -13704,8 +13081,7 @@ export const fifaData = [
     "MatchID": 43950044,
     "Home Team Initials": "ECU",
     "Away Team Initials": "CRO"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "13 Jun 2002 - 20:30",
     "Stage": "Group G",
@@ -13726,8 +13102,7 @@ export const fifaData = [
     "MatchID": 43950043,
     "Home Team Initials": "MEX",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "14 Jun 2002 - 15:30",
     "Stage": "Group H",
@@ -13748,8 +13123,7 @@ export const fifaData = [
     "MatchID": 43950045,
     "Home Team Initials": "TUN",
     "Away Team Initials": "JPN"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "14 Jun 2002 - 20:30",
     "Stage": "Group D",
@@ -13770,8 +13144,7 @@ export const fifaData = [
     "MatchID": 43950047,
     "Home Team Initials": "POR",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "14 Jun 2002 - 20:30",
     "Stage": "Group D",
@@ -13792,8 +13165,7 @@ export const fifaData = [
     "MatchID": 43950048,
     "Home Team Initials": "POL",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "14 Jun 2002 - 15:30",
     "Stage": "Group H",
@@ -13814,8 +13186,7 @@ export const fifaData = [
     "MatchID": 43950046,
     "Home Team Initials": "BEL",
     "Away Team Initials": "RUS"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "15 Jun 2002 - 20:30",
     "Stage": "Round of 16",
@@ -13836,8 +13207,7 @@ export const fifaData = [
     "MatchID": 43950050,
     "Home Team Initials": "DEN",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "15 Jun 2002 - 15:30",
     "Stage": "Round of 16",
@@ -13858,8 +13228,7 @@ export const fifaData = [
     "MatchID": 43950049,
     "Home Team Initials": "GER",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "16 Jun 2002 - 20:30",
     "Stage": "Round of 16",
@@ -13880,8 +13249,7 @@ export const fifaData = [
     "MatchID": 43950052,
     "Home Team Initials": "ESP",
     "Away Team Initials": "IRL"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "16 Jun 2002 - 15:30",
     "Stage": "Round of 16",
@@ -13902,8 +13270,7 @@ export const fifaData = [
     "MatchID": 43950051,
     "Home Team Initials": "SWE",
     "Away Team Initials": "SEN"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "17 Jun 2002 - 20:30",
     "Stage": "Round of 16",
@@ -13924,8 +13291,7 @@ export const fifaData = [
     "MatchID": 43950054,
     "Home Team Initials": "BRA",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "17 June 2002 - 15:30",
     "Stage": "Round of 16",
@@ -13946,8 +13312,7 @@ export const fifaData = [
     "MatchID": 43950053,
     "Home Team Initials": "MEX",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "18 Jun 2002 - 15:30",
     "Stage": "Round of 16",
@@ -13968,8 +13333,7 @@ export const fifaData = [
     "MatchID": 43950055,
     "Home Team Initials": "JPN",
     "Away Team Initials": "TUR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "18 Jun 2002 - 20:30",
     "Stage": "Round of 16",
@@ -13990,8 +13354,7 @@ export const fifaData = [
     "MatchID": 43950056,
     "Home Team Initials": "KOR",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "21 Jun 2002 - 15:30",
     "Stage": "Quarter-finals",
@@ -14012,8 +13375,7 @@ export const fifaData = [
     "MatchID": 43950057,
     "Home Team Initials": "ENG",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "21 Jun 2002 - 20:30",
     "Stage": "Quarter-finals",
@@ -14034,8 +13396,7 @@ export const fifaData = [
     "MatchID": 43950058,
     "Home Team Initials": "GER",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "22 Jun 2002 - 20:30",
     "Stage": "Quarter-finals",
@@ -14056,8 +13417,7 @@ export const fifaData = [
     "MatchID": 43950060,
     "Home Team Initials": "SEN",
     "Away Team Initials": "TUR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "22 Jun 2002 - 15:30",
     "Stage": "Quarter-finals",
@@ -14078,8 +13438,7 @@ export const fifaData = [
     "MatchID": 43950059,
     "Home Team Initials": "ESP",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "25 Jun 2002 - 20:30",
     "Stage": "Semi-finals",
@@ -14100,8 +13459,7 @@ export const fifaData = [
     "MatchID": 43950061,
     "Home Team Initials": "GER",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "26 Jun 2002 - 20:30",
     "Stage": "Semi-finals",
@@ -14122,8 +13480,7 @@ export const fifaData = [
     "MatchID": 43950062,
     "Home Team Initials": "BRA",
     "Away Team Initials": "TUR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "29 Jun 2002 - 20:00",
     "Stage": "Third place",
@@ -14144,8 +13501,7 @@ export const fifaData = [
     "MatchID": 43950063,
     "Home Team Initials": "KOR",
     "Away Team Initials": "TUR"
-  },
-  {
+}, {
     "Year": 2002,
     "Datetime": "30 Jun 2002 - 20:00",
     "Stage": "Final",
@@ -14166,8 +13522,7 @@ export const fifaData = [
     "MatchID": 43950064,
     "Home Team Initials": "GER",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "09 Jun 2006 - 18:00",
     "Stage": "Group A",
@@ -14188,8 +13543,7 @@ export const fifaData = [
     "MatchID": 97410001,
     "Home Team Initials": "GER",
     "Away Team Initials": "CRC"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "09 Jun 2006 - 21:00",
     "Stage": "Group A",
@@ -14210,8 +13564,7 @@ export const fifaData = [
     "MatchID": 97410002,
     "Home Team Initials": "POL",
     "Away Team Initials": "ECU"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "10 Jun 2006 - 15:00",
     "Stage": "Group B",
@@ -14232,8 +13585,7 @@ export const fifaData = [
     "MatchID": 97410003,
     "Home Team Initials": "ENG",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "10 Jun 2006 - 18:00",
     "Stage": "Group B",
@@ -14254,8 +13606,7 @@ export const fifaData = [
     "MatchID": 97410004,
     "Home Team Initials": "TRI",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "10 Jun 2006 - 21:00",
     "Stage": "Group C",
@@ -14276,8 +13627,7 @@ export const fifaData = [
     "MatchID": 97410005,
     "Home Team Initials": "ARG",
     "Away Team Initials": "CIV"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "11 Jun 2006 - 15:00",
     "Stage": "Group C",
@@ -14298,8 +13648,7 @@ export const fifaData = [
     "MatchID": 97410006,
     "Home Team Initials": "SCG",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "11 Jun 2006 - 18:00",
     "Stage": "Group D",
@@ -14320,8 +13669,7 @@ export const fifaData = [
     "MatchID": 97410007,
     "Home Team Initials": "MEX",
     "Away Team Initials": "IRN"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "11 Jun 2006 - 21:00",
     "Stage": "Group D",
@@ -14342,8 +13690,7 @@ export const fifaData = [
     "MatchID": 97410008,
     "Home Team Initials": "ANG",
     "Away Team Initials": "POR"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "12 Jun 2006 - 15:00",
     "Stage": "Group F",
@@ -14364,8 +13711,7 @@ export const fifaData = [
     "MatchID": 97410012,
     "Home Team Initials": "AUS",
     "Away Team Initials": "JPN"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "12 Jun 2006 - 18:00",
     "Stage": "Group E",
@@ -14386,8 +13732,7 @@ export const fifaData = [
     "MatchID": 97410010,
     "Home Team Initials": "USA",
     "Away Team Initials": "CZE"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "12 Jun 2006 - 21:00",
     "Stage": "Group E",
@@ -14408,8 +13753,7 @@ export const fifaData = [
     "MatchID": 97410009,
     "Home Team Initials": "ITA",
     "Away Team Initials": "GHA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "13 Jun 2006 - 15:00",
     "Stage": "Group G",
@@ -14430,8 +13774,7 @@ export const fifaData = [
     "MatchID": 97410014,
     "Home Team Initials": "KOR",
     "Away Team Initials": "TOG"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "13 Jun 2006 - 18:00",
     "Stage": "Group G",
@@ -14452,8 +13795,7 @@ export const fifaData = [
     "MatchID": 97410013,
     "Home Team Initials": "FRA",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "13 Jun 2006 - 21:00",
     "Stage": "Group F",
@@ -14474,8 +13816,7 @@ export const fifaData = [
     "MatchID": 97410011,
     "Home Team Initials": "BRA",
     "Away Team Initials": "CRO"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "14 Jun 2006 - 15:00",
     "Stage": "Group H",
@@ -14496,8 +13837,7 @@ export const fifaData = [
     "MatchID": 97410015,
     "Home Team Initials": "ESP",
     "Away Team Initials": "UKR"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "14 Jun 2006 - 18:00",
     "Stage": "Group H",
@@ -14518,8 +13858,7 @@ export const fifaData = [
     "MatchID": 97410016,
     "Home Team Initials": "TUN",
     "Away Team Initials": "KSA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "14 Jun 2006 - 21:00",
     "Stage": "Group A",
@@ -14540,8 +13879,7 @@ export const fifaData = [
     "MatchID": 97410017,
     "Home Team Initials": "GER",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "15 Jun 2006 - 15:00",
     "Stage": "Group A",
@@ -14562,8 +13900,7 @@ export const fifaData = [
     "MatchID": 97410018,
     "Home Team Initials": "ECU",
     "Away Team Initials": "CRC"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "15 Jun 2006 - 18:00",
     "Stage": "Group B",
@@ -14584,8 +13921,7 @@ export const fifaData = [
     "MatchID": 97410019,
     "Home Team Initials": "ENG",
     "Away Team Initials": "TRI"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "15 Jun 2006 - 21:00",
     "Stage": "Group B",
@@ -14606,8 +13942,7 @@ export const fifaData = [
     "MatchID": 97410020,
     "Home Team Initials": "SWE",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "16 Jun 2006 - 15:00",
     "Stage": "Group C",
@@ -14628,8 +13963,7 @@ export const fifaData = [
     "MatchID": 97410021,
     "Home Team Initials": "ARG",
     "Away Team Initials": "SCG"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "16 Jun 2006 - 18:00",
     "Stage": "Group C",
@@ -14650,8 +13984,7 @@ export const fifaData = [
     "MatchID": 97410022,
     "Home Team Initials": "NED",
     "Away Team Initials": "CIV"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "16 Jun 2006 - 21:00",
     "Stage": "Group D",
@@ -14672,8 +14005,7 @@ export const fifaData = [
     "MatchID": 97410023,
     "Home Team Initials": "MEX",
     "Away Team Initials": "ANG"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "17 Jun 2006 - 15:00",
     "Stage": "Group D",
@@ -14694,8 +14026,7 @@ export const fifaData = [
     "MatchID": 97410024,
     "Home Team Initials": "POR",
     "Away Team Initials": "IRN"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "17 Jun 2006 - 18:00",
     "Stage": "Group E",
@@ -14716,8 +14047,7 @@ export const fifaData = [
     "MatchID": 97410026,
     "Home Team Initials": "CZE",
     "Away Team Initials": "GHA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "17 Jun 2006 - 21:00",
     "Stage": "Group E",
@@ -14738,8 +14068,7 @@ export const fifaData = [
     "MatchID": 97410025,
     "Home Team Initials": "ITA",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "18 Jun 2006 - 15:00",
     "Stage": "Group F",
@@ -14760,8 +14089,7 @@ export const fifaData = [
     "MatchID": 97410028,
     "Home Team Initials": "JPN",
     "Away Team Initials": "CRO"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "18 Jun 2006 - 18:00",
     "Stage": "Group F",
@@ -14782,8 +14110,7 @@ export const fifaData = [
     "MatchID": 97410027,
     "Home Team Initials": "BRA",
     "Away Team Initials": "AUS"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "18 Jun 2006 - 21:00",
     "Stage": "Group G",
@@ -14804,8 +14131,7 @@ export const fifaData = [
     "MatchID": 97410029,
     "Home Team Initials": "FRA",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "19 Jun 2006 - 15:00",
     "Stage": "Group G",
@@ -14826,8 +14152,7 @@ export const fifaData = [
     "MatchID": 97410030,
     "Home Team Initials": "TOG",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "19 Jun 2006 - 18:00",
     "Stage": "Group H",
@@ -14848,8 +14173,7 @@ export const fifaData = [
     "MatchID": 97410032,
     "Home Team Initials": "KSA",
     "Away Team Initials": "UKR"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "19 Jun 2006 - 21:00",
     "Stage": "Group H",
@@ -14870,8 +14194,7 @@ export const fifaData = [
     "MatchID": 97410031,
     "Home Team Initials": "ESP",
     "Away Team Initials": "TUN"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "20 Jun 2006 - 16:00",
     "Stage": "Group A",
@@ -14892,8 +14215,7 @@ export const fifaData = [
     "MatchID": 97410033,
     "Home Team Initials": "ECU",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "20 Jun 2006 - 16:00",
     "Stage": "Group A",
@@ -14914,8 +14236,7 @@ export const fifaData = [
     "MatchID": 97410034,
     "Home Team Initials": "CRC",
     "Away Team Initials": "POL"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "20 Jun 2006 - 21:00",
     "Stage": "Group B",
@@ -14936,8 +14257,7 @@ export const fifaData = [
     "MatchID": 97410035,
     "Home Team Initials": "SWE",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "20 Jun 2006 - 21:00",
     "Stage": "Group B",
@@ -14958,8 +14278,7 @@ export const fifaData = [
     "MatchID": 97410036,
     "Home Team Initials": "PAR",
     "Away Team Initials": "TRI"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "21 Jun 2006 - 16:00",
     "Stage": "Group D",
@@ -14980,8 +14299,7 @@ export const fifaData = [
     "MatchID": 97410040,
     "Home Team Initials": "IRN",
     "Away Team Initials": "ANG"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "21 Jun 2006 - 16:00",
     "Stage": "Group D",
@@ -15002,8 +14320,7 @@ export const fifaData = [
     "MatchID": 97410039,
     "Home Team Initials": "POR",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "21 Jun 2006 - 21:00",
     "Stage": "Group C",
@@ -15024,8 +14341,7 @@ export const fifaData = [
     "MatchID": 97410037,
     "Home Team Initials": "NED",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "21 Jun 2006 - 21:00",
     "Stage": "Group C",
@@ -15046,8 +14362,7 @@ export const fifaData = [
     "MatchID": 97410038,
     "Home Team Initials": "CIV",
     "Away Team Initials": "SCG"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "22 Jun 2006 - 16:00",
     "Stage": "Group E",
@@ -15068,8 +14383,7 @@ export const fifaData = [
     "MatchID": 97410041,
     "Home Team Initials": "CZE",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "22 Jun 2006 - 16:00",
     "Stage": "Group E",
@@ -15090,8 +14404,7 @@ export const fifaData = [
     "MatchID": 97410042,
     "Home Team Initials": "GHA",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "22 Jun 2006 - 21:00",
     "Stage": "Group F",
@@ -15112,8 +14425,7 @@ export const fifaData = [
     "MatchID": 97410043,
     "Home Team Initials": "JPN",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "22 Jun 2006 - 21:00",
     "Stage": "Group F",
@@ -15134,8 +14446,7 @@ export const fifaData = [
     "MatchID": 97410044,
     "Home Team Initials": "CRO",
     "Away Team Initials": "AUS"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "23 Jun 2006 - 16:00",
     "Stage": "Group H",
@@ -15156,8 +14467,7 @@ export const fifaData = [
     "MatchID": 97410048,
     "Home Team Initials": "UKR",
     "Away Team Initials": "TUN"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "23 Jun 2006 - 16:00",
     "Stage": "Group H",
@@ -15178,8 +14488,7 @@ export const fifaData = [
     "MatchID": 97410047,
     "Home Team Initials": "KSA",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "23 Jun 2006 - 21:00",
     "Stage": "Group G",
@@ -15200,8 +14509,7 @@ export const fifaData = [
     "MatchID": 97410045,
     "Home Team Initials": "TOG",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "23 Jun 2006 - 21:00",
     "Stage": "Group G",
@@ -15222,8 +14530,7 @@ export const fifaData = [
     "MatchID": 97410046,
     "Home Team Initials": "SUI",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "24 Jun 2006 - 17:00",
     "Stage": "Round of 16",
@@ -15244,8 +14551,7 @@ export const fifaData = [
     "MatchID": 97410049,
     "Home Team Initials": "GER",
     "Away Team Initials": "SWE"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "24 Jun 2006 - 21:00",
     "Stage": "Round of 16",
@@ -15266,8 +14572,7 @@ export const fifaData = [
     "MatchID": 97410050,
     "Home Team Initials": "ARG",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "25 Jun 2006 - 17:00",
     "Stage": "Round of 16",
@@ -15288,8 +14593,7 @@ export const fifaData = [
     "MatchID": 97410051,
     "Home Team Initials": "ENG",
     "Away Team Initials": "ECU"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "25 Jun 2006 - 21:00",
     "Stage": "Round of 16",
@@ -15310,8 +14614,7 @@ export const fifaData = [
     "MatchID": 97410052,
     "Home Team Initials": "POR",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "26 Jun 2006 - 17:00",
     "Stage": "Round of 16",
@@ -15332,8 +14635,7 @@ export const fifaData = [
     "MatchID": 97410053,
     "Home Team Initials": "ITA",
     "Away Team Initials": "AUS"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "26 Jun 2006 - 21:00",
     "Stage": "Round of 16",
@@ -15354,8 +14656,7 @@ export const fifaData = [
     "MatchID": 97410054,
     "Home Team Initials": "SUI",
     "Away Team Initials": "UKR"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "27 Jun 2006 - 17:00",
     "Stage": "Round of 16",
@@ -15376,8 +14677,7 @@ export const fifaData = [
     "MatchID": 97410055,
     "Home Team Initials": "BRA",
     "Away Team Initials": "GHA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "27 Jun 2006 - 21:00",
     "Stage": "Round of 16",
@@ -15398,8 +14698,7 @@ export const fifaData = [
     "MatchID": 97410056,
     "Home Team Initials": "ESP",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "30 Jun 2006 - 17:00",
     "Stage": "Quarter-finals",
@@ -15420,8 +14719,7 @@ export const fifaData = [
     "MatchID": 97410057,
     "Home Team Initials": "GER",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "30 Jun 2006 - 21:00",
     "Stage": "Quarter-finals",
@@ -15442,8 +14740,7 @@ export const fifaData = [
     "MatchID": 97410058,
     "Home Team Initials": "ITA",
     "Away Team Initials": "UKR"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "01 Jul 2006 - 17:00",
     "Stage": "Quarter-finals",
@@ -15464,8 +14761,7 @@ export const fifaData = [
     "MatchID": 97410059,
     "Home Team Initials": "ENG",
     "Away Team Initials": "POR"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "01 Jul 2006 - 21:00",
     "Stage": "Quarter-finals",
@@ -15486,8 +14782,7 @@ export const fifaData = [
     "MatchID": 97410060,
     "Home Team Initials": "BRA",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "04 Jul 2006 - 21:00",
     "Stage": "Semi-finals",
@@ -15508,8 +14803,7 @@ export const fifaData = [
     "MatchID": 97410061,
     "Home Team Initials": "GER",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "05 Jul 2006 - 21:00",
     "Stage": "Semi-finals",
@@ -15530,8 +14824,7 @@ export const fifaData = [
     "MatchID": 97410062,
     "Home Team Initials": "POR",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "08 Jul 2006 - 21:00",
     "Stage": "Third place",
@@ -15552,8 +14845,7 @@ export const fifaData = [
     "MatchID": 97410063,
     "Home Team Initials": "GER",
     "Away Team Initials": "POR"
-  },
-  {
+}, {
     "Year": 2006,
     "Datetime": "09 Jul 2006 - 20:00",
     "Stage": "Final",
@@ -15574,8 +14866,7 @@ export const fifaData = [
     "MatchID": 97410064,
     "Home Team Initials": "ITA",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "11 Jun 2010 - 16:00",
     "Stage": "Group A",
@@ -15596,8 +14887,7 @@ export const fifaData = [
     "MatchID": 300061454,
     "Home Team Initials": "RSA",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "11 Jun 2010 - 20:30",
     "Stage": "Group A",
@@ -15618,8 +14908,7 @@ export const fifaData = [
     "MatchID": 300061453,
     "Home Team Initials": "URU",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "12 Jun 2010 - 13:30",
     "Stage": "Group B",
@@ -15640,8 +14929,7 @@ export const fifaData = [
     "MatchID": 300061459,
     "Home Team Initials": "KOR",
     "Away Team Initials": "GRE"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "12 Jun 2010 - 16:00",
     "Stage": "Group B",
@@ -15662,8 +14950,7 @@ export const fifaData = [
     "MatchID": 300061460,
     "Home Team Initials": "ARG",
     "Away Team Initials": "NGA"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "12 Jun 2010 - 20:30",
     "Stage": "Group C",
@@ -15684,8 +14971,7 @@ export const fifaData = [
     "MatchID": 300061466,
     "Home Team Initials": "ENG",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "13 Jun 2010 - 13:30",
     "Stage": "Group C",
@@ -15706,8 +14992,7 @@ export const fifaData = [
     "MatchID": 300061465,
     "Home Team Initials": "ALG",
     "Away Team Initials": "SVN"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "13 Jun 2010 - 16:00",
     "Stage": "Group D",
@@ -15728,8 +15013,7 @@ export const fifaData = [
     "MatchID": 300061471,
     "Home Team Initials": "SRB",
     "Away Team Initials": "GHA"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "13 Jun 2010 - 20:30",
     "Stage": "Group D",
@@ -15750,8 +15034,7 @@ export const fifaData = [
     "MatchID": 300111116,
     "Home Team Initials": "GER",
     "Away Team Initials": "AUS"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "14 Jun 2010 - 13:30",
     "Stage": "Group E",
@@ -15772,8 +15055,7 @@ export const fifaData = [
     "MatchID": 300061478,
     "Home Team Initials": "NED",
     "Away Team Initials": "DEN"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "14 Jun 2010 - 16:00",
     "Stage": "Group E",
@@ -15794,8 +15076,7 @@ export const fifaData = [
     "MatchID": 300061477,
     "Home Team Initials": "JPN",
     "Away Team Initials": "CMR"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "14 Jun 2010 - 20:30",
     "Stage": "Group F",
@@ -15816,8 +15097,7 @@ export const fifaData = [
     "MatchID": 300061484,
     "Home Team Initials": "ITA",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "15 Jun 2010 - 13:30",
     "Stage": "Group F",
@@ -15838,8 +15118,7 @@ export const fifaData = [
     "MatchID": 300061483,
     "Home Team Initials": "NZL",
     "Away Team Initials": "SVK"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "15 Jun 2010 - 16:00",
     "Stage": "Group G",
@@ -15860,8 +15139,7 @@ export const fifaData = [
     "MatchID": 300061489,
     "Home Team Initials": "CIV",
     "Away Team Initials": "POR"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "15 Jun 2010 - 20:30",
     "Stage": "Group G",
@@ -15882,8 +15160,7 @@ export const fifaData = [
     "MatchID": 300061490,
     "Home Team Initials": "BRA",
     "Away Team Initials": "PRK"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "16 Jun 2010 - 13:30",
     "Stage": "Group H",
@@ -15904,8 +15181,7 @@ export const fifaData = [
     "MatchID": 300061495,
     "Home Team Initials": "HON",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "16 Jun 2010 - 16:00",
     "Stage": "Group H",
@@ -15926,8 +15202,7 @@ export const fifaData = [
     "MatchID": 300111112,
     "Home Team Initials": "ESP",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "16 Jun 2010 - 20:30",
     "Stage": "Group A",
@@ -15948,8 +15223,7 @@ export const fifaData = [
     "MatchID": 300061452,
     "Home Team Initials": "RSA",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "17 Jun 2010 - 13:30",
     "Stage": "Group B",
@@ -15970,8 +15244,7 @@ export const fifaData = [
     "MatchID": 300061458,
     "Home Team Initials": "ARG",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "17 Jun 2010 - 16:00",
     "Stage": "Group B",
@@ -15992,8 +15265,7 @@ export const fifaData = [
     "MatchID": 300061457,
     "Home Team Initials": "GRE",
     "Away Team Initials": "NGA"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "17 Jun 2010 - 20:30",
     "Stage": "Group A",
@@ -16014,8 +15286,7 @@ export const fifaData = [
     "MatchID": 300061451,
     "Home Team Initials": "FRA",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "18 Jun 2010 - 13:30",
     "Stage": "Group D",
@@ -16036,8 +15307,7 @@ export const fifaData = [
     "MatchID": 300061470,
     "Home Team Initials": "GER",
     "Away Team Initials": "SRB"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "18 Jun 2010 - 16:00",
     "Stage": "Group C",
@@ -16058,8 +15328,7 @@ export const fifaData = [
     "MatchID": 300061463,
     "Home Team Initials": "SVN",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "18 Jun 2010 - 20:30",
     "Stage": "Group C",
@@ -16080,8 +15349,7 @@ export const fifaData = [
     "MatchID": 300061464,
     "Home Team Initials": "ENG",
     "Away Team Initials": "ALG"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "19 Jun 2010 - 13:30",
     "Stage": "Group E",
@@ -16102,8 +15370,7 @@ export const fifaData = [
     "MatchID": 300111117,
     "Home Team Initials": "NED",
     "Away Team Initials": "JPN"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "19 Jun 2010 - 16:00",
     "Stage": "Group D",
@@ -16124,8 +15391,7 @@ export const fifaData = [
     "MatchID": 300061469,
     "Home Team Initials": "GHA",
     "Away Team Initials": "AUS"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "19 Jun 2010 - 20:30",
     "Stage": "Group E",
@@ -16146,8 +15412,7 @@ export const fifaData = [
     "MatchID": 300061475,
     "Home Team Initials": "CMR",
     "Away Team Initials": "DEN"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "20 Jun 2010 - 13:30",
     "Stage": "Group F",
@@ -16168,8 +15433,7 @@ export const fifaData = [
     "MatchID": 300061481,
     "Home Team Initials": "SVK",
     "Away Team Initials": "PAR"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "20 Jun 2010 - 16:00",
     "Stage": "Group F",
@@ -16190,8 +15454,7 @@ export const fifaData = [
     "MatchID": 300061482,
     "Home Team Initials": "ITA",
     "Away Team Initials": "NZL"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "20 Jun 2010 - 20:30",
     "Stage": "Group G",
@@ -16212,8 +15475,7 @@ export const fifaData = [
     "MatchID": 300061488,
     "Home Team Initials": "BRA",
     "Away Team Initials": "CIV"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "21 Jun 2010 - 13:30",
     "Stage": "Group G",
@@ -16234,8 +15496,7 @@ export const fifaData = [
     "MatchID": 300061487,
     "Home Team Initials": "POR",
     "Away Team Initials": "PRK"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "21 Jun 2010 - 16:00",
     "Stage": "Group H",
@@ -16256,8 +15517,7 @@ export const fifaData = [
     "MatchID": 300061493,
     "Home Team Initials": "CHI",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "21 Jun 2010 - 20:30",
     "Stage": "Group H",
@@ -16278,8 +15538,7 @@ export const fifaData = [
     "MatchID": 300061494,
     "Home Team Initials": "ESP",
     "Away Team Initials": "HON"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "22 Jun 2010 - 16:00",
     "Stage": "Group A",
@@ -16300,8 +15559,7 @@ export const fifaData = [
     "MatchID": 300061450,
     "Home Team Initials": "MEX",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "22 Jun 2010 - 16:00",
     "Stage": "Group A",
@@ -16322,8 +15580,7 @@ export const fifaData = [
     "MatchID": 300061449,
     "Home Team Initials": "FRA",
     "Away Team Initials": "RSA"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "22 Jun 2010 - 20:30",
     "Stage": "Group B",
@@ -16344,8 +15601,7 @@ export const fifaData = [
     "MatchID": 300111115,
     "Home Team Initials": "NGA",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "22 Jun 2010 - 20:30",
     "Stage": "Group B",
@@ -16366,8 +15622,7 @@ export const fifaData = [
     "MatchID": 300061455,
     "Home Team Initials": "GRE",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "23 Jun 2010 - 16:00",
     "Stage": "Group C",
@@ -16388,8 +15643,7 @@ export const fifaData = [
     "MatchID": 300061462,
     "Home Team Initials": "SVN",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "23 Jun 2010 - 16:00",
     "Stage": "Group C",
@@ -16410,8 +15664,7 @@ export const fifaData = [
     "MatchID": 300061461,
     "Home Team Initials": "USA",
     "Away Team Initials": "ALG"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "23 Jun 2010 - 20:30",
     "Stage": "Group D",
@@ -16432,8 +15685,7 @@ export const fifaData = [
     "MatchID": 300061468,
     "Home Team Initials": "GHA",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "23 Jun 2010 - 20:30",
     "Stage": "Group D",
@@ -16454,8 +15706,7 @@ export const fifaData = [
     "MatchID": 300061467,
     "Home Team Initials": "AUS",
     "Away Team Initials": "SRB"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "24 Jun 2010 - 16:00",
     "Stage": "Group F",
@@ -16476,8 +15727,7 @@ export const fifaData = [
     "MatchID": 300061480,
     "Home Team Initials": "SVK",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "24 Jun 2010 - 16:00",
     "Stage": "Group F",
@@ -16498,8 +15748,7 @@ export const fifaData = [
     "MatchID": 300061479,
     "Home Team Initials": "PAR",
     "Away Team Initials": "NZL"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "24 Jun 2010 - 20:30",
     "Stage": "Group E",
@@ -16520,8 +15769,7 @@ export const fifaData = [
     "MatchID": 300061474,
     "Home Team Initials": "DEN",
     "Away Team Initials": "JPN"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "24 Jun 2010 - 20:30",
     "Stage": "Group E",
@@ -16542,8 +15790,7 @@ export const fifaData = [
     "MatchID": 300061473,
     "Home Team Initials": "CMR",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "25 Jun 2010 - 16:00",
     "Stage": "Group G",
@@ -16564,8 +15811,7 @@ export const fifaData = [
     "MatchID": 300111111,
     "Home Team Initials": "POR",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "25 Jun 2010 - 16:00",
     "Stage": "Group G",
@@ -16586,8 +15832,7 @@ export const fifaData = [
     "MatchID": 300061486,
     "Home Team Initials": "PRK",
     "Away Team Initials": "CIV"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "25 Jun 2010 - 20:30",
     "Stage": "Group H",
@@ -16608,8 +15853,7 @@ export const fifaData = [
     "MatchID": 300061491,
     "Home Team Initials": "CHI",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "25 Jun 2010 - 20:30",
     "Stage": "Group H",
@@ -16630,8 +15874,7 @@ export const fifaData = [
     "MatchID": 300061492,
     "Home Team Initials": "SUI",
     "Away Team Initials": "HON"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "26 Jun 2010 - 16:00",
     "Stage": "Round of 16",
@@ -16652,8 +15895,7 @@ export const fifaData = [
     "MatchID": 300061504,
     "Home Team Initials": "URU",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "26 Jun 2010 - 20:30",
     "Stage": "Round of 16",
@@ -16674,8 +15916,7 @@ export const fifaData = [
     "MatchID": 300061503,
     "Home Team Initials": "USA",
     "Away Team Initials": "GHA"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "27 Jun 2010 - 16:00",
     "Stage": "Round of 16",
@@ -16696,8 +15937,7 @@ export const fifaData = [
     "MatchID": 300061501,
     "Home Team Initials": "GER",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "27 Jun 2010 - 20:30",
     "Stage": "Round of 16",
@@ -16718,8 +15958,7 @@ export const fifaData = [
     "MatchID": 300061502,
     "Home Team Initials": "ARG",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "28 Jun 2010 - 16:00",
     "Stage": "Round of 16",
@@ -16740,8 +15979,7 @@ export const fifaData = [
     "MatchID": 300111113,
     "Home Team Initials": "NED",
     "Away Team Initials": "SVK"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "28 Jun 2010 - 20:30",
     "Stage": "Round of 16",
@@ -16762,8 +16000,7 @@ export const fifaData = [
     "MatchID": 300061500,
     "Home Team Initials": "BRA",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "29 Jun 2010 - 16:00",
     "Stage": "Round of 16",
@@ -16784,8 +16021,7 @@ export const fifaData = [
     "MatchID": 300061497,
     "Home Team Initials": "PAR",
     "Away Team Initials": "JPN"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "29 Jun 2010 - 20:30",
     "Stage": "Round of 16",
@@ -16806,8 +16042,7 @@ export const fifaData = [
     "MatchID": 300061498,
     "Home Team Initials": "ESP",
     "Away Team Initials": "POR"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "02 Jul 2010 - 16:00",
     "Stage": "Quarter-finals",
@@ -16828,8 +16063,7 @@ export const fifaData = [
     "MatchID": 300061507,
     "Home Team Initials": "NED",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "02 Jul 2010 - 20:30",
     "Stage": "Quarter-finals",
@@ -16850,8 +16084,7 @@ export const fifaData = [
     "MatchID": 300061508,
     "Home Team Initials": "URU",
     "Away Team Initials": "GHA"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "03 Jul 2010 - 16:00",
     "Stage": "Quarter-finals",
@@ -16872,8 +16105,7 @@ export const fifaData = [
     "MatchID": 300061505,
     "Home Team Initials": "ARG",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "03 Jul 2010 - 20:30",
     "Stage": "Quarter-finals",
@@ -16894,8 +16126,7 @@ export const fifaData = [
     "MatchID": 300061506,
     "Home Team Initials": "PAR",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "06 Jul 2010 - 20:30",
     "Stage": "Semi-finals",
@@ -16916,8 +16147,7 @@ export const fifaData = [
     "MatchID": 300061512,
     "Home Team Initials": "URU",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "07 Jul 2010 - 20:30",
     "Stage": "Semi-finals",
@@ -16938,8 +16168,7 @@ export const fifaData = [
     "MatchID": 300111114,
     "Home Team Initials": "GER",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "10 Jul 2010 - 20:30",
     "Stage": "Match for third place",
@@ -16960,8 +16189,7 @@ export const fifaData = [
     "MatchID": 300061510,
     "Home Team Initials": "URU",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 2010,
     "Datetime": "11 Jul 2010 - 20:30",
     "Stage": "Final",
@@ -16982,8 +16210,7 @@ export const fifaData = [
     "MatchID": 300061509,
     "Home Team Initials": "NED",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "12 Jun 2014 - 17:00",
     "Stage": "Group A",
@@ -17004,8 +16231,7 @@ export const fifaData = [
     "MatchID": 300186456,
     "Home Team Initials": "BRA",
     "Away Team Initials": "CRO"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "13 Jun 2014 - 13:00",
     "Stage": "Group A",
@@ -17026,8 +16252,7 @@ export const fifaData = [
     "MatchID": 300186492,
     "Home Team Initials": "MEX",
     "Away Team Initials": "CMR"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "13 Jun 2014 - 16:00",
     "Stage": "Group B",
@@ -17048,8 +16273,7 @@ export const fifaData = [
     "MatchID": 300186510,
     "Home Team Initials": "ESP",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "13 Jun 2014 - 18:00",
     "Stage": "Group B",
@@ -17070,8 +16294,7 @@ export const fifaData = [
     "MatchID": 300186473,
     "Home Team Initials": "CHI",
     "Away Team Initials": "AUS"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "14 Jun 2014 - 13:00",
     "Stage": "Group C",
@@ -17092,8 +16315,7 @@ export const fifaData = [
     "MatchID": 300186471,
     "Home Team Initials": "COL",
     "Away Team Initials": "GRE"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "14 Jun 2014 - 16:00",
     "Stage": "Group D",
@@ -17114,8 +16336,7 @@ export const fifaData = [
     "MatchID": 300186489,
     "Home Team Initials": "URU",
     "Away Team Initials": "CRC"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "14 Jun 2014 - 18:00",
     "Stage": "Group D",
@@ -17136,8 +16357,7 @@ export const fifaData = [
     "MatchID": 300186513,
     "Home Team Initials": "ENG",
     "Away Team Initials": "ITA"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "14 Jun 2014 - 22:00",
     "Stage": "Group C",
@@ -17158,8 +16378,7 @@ export const fifaData = [
     "MatchID": 300186507,
     "Home Team Initials": "CIV",
     "Away Team Initials": "JPN"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "15 Jun 2014 - 13:00",
     "Stage": "Group E",
@@ -17180,8 +16399,7 @@ export const fifaData = [
     "MatchID": 300186494,
     "Home Team Initials": "SUI",
     "Away Team Initials": "ECU"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "15 Jun 2014 - 16:00",
     "Stage": "Group E",
@@ -17202,8 +16420,7 @@ export const fifaData = [
     "MatchID": 300186496,
     "Home Team Initials": "FRA",
     "Away Team Initials": "HON"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "15 Jun 2014 - 19:00",
     "Stage": "Group F",
@@ -17224,8 +16441,7 @@ export const fifaData = [
     "MatchID": 300186477,
     "Home Team Initials": "ARG",
     "Away Team Initials": "BIH"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "16 Jun 2014 - 13:00",
     "Stage": "Group G",
@@ -17246,8 +16462,7 @@ export const fifaData = [
     "MatchID": 300186475,
     "Home Team Initials": "GER",
     "Away Team Initials": "POR"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "16 Jun 2014 - 16:00",
     "Stage": "Group F",
@@ -17268,8 +16483,7 @@ export const fifaData = [
     "MatchID": 300186505,
     "Home Team Initials": "IRN",
     "Away Team Initials": "NGA"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "16 Jun 2014 - 19:00",
     "Stage": "Group G",
@@ -17290,8 +16504,7 @@ export const fifaData = [
     "MatchID": 300186512,
     "Home Team Initials": "GHA",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "17 Jun 2014 - 13:00",
     "Stage": "Group H",
@@ -17312,8 +16525,7 @@ export const fifaData = [
     "MatchID": 300186479,
     "Home Team Initials": "BEL",
     "Away Team Initials": "ALG"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "17 Jun 2014 - 16:00",
     "Stage": "Group A",
@@ -17334,8 +16546,7 @@ export const fifaData = [
     "MatchID": 300186509,
     "Home Team Initials": "BRA",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "17 Jun 2014 - 18:00",
     "Stage": "Group H",
@@ -17356,8 +16567,7 @@ export const fifaData = [
     "MatchID": 300186499,
     "Home Team Initials": "RUS",
     "Away Team Initials": "KOR"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "18 Jun 2014 - 13:00",
     "Stage": "Group B",
@@ -17378,8 +16588,7 @@ export const fifaData = [
     "MatchID": 300186478,
     "Home Team Initials": "AUS",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "18 Jun 2014 - 16:00",
     "Stage": "Group B",
@@ -17400,8 +16609,7 @@ export const fifaData = [
     "MatchID": 300186498,
     "Home Team Initials": "ESP",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "18 Jun 2014 - 18:00",
     "Stage": "Group A",
@@ -17422,8 +16630,7 @@ export const fifaData = [
     "MatchID": 300186453,
     "Home Team Initials": "CMR",
     "Away Team Initials": "CRO"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "19 Jun 2014 - 13:00",
     "Stage": "Group C",
@@ -17444,8 +16651,7 @@ export const fifaData = [
     "MatchID": 300186468,
     "Home Team Initials": "COL",
     "Away Team Initials": "CIV"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "19 Jun 2014 - 16:00",
     "Stage": "Group D",
@@ -17466,8 +16672,7 @@ export const fifaData = [
     "MatchID": 300186486,
     "Home Team Initials": "URU",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "19 Jun 2014 - 19:00",
     "Stage": "Group C",
@@ -17488,8 +16693,7 @@ export const fifaData = [
     "MatchID": 300186454,
     "Home Team Initials": "JPN",
     "Away Team Initials": "GRE"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "20 Jun 2014 - 13:00",
     "Stage": "Group D",
@@ -17510,8 +16714,7 @@ export const fifaData = [
     "MatchID": 300186500,
     "Home Team Initials": "ITA",
     "Away Team Initials": "CRC"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "20 Jun 2014 - 16:00",
     "Stage": "Group E",
@@ -17532,8 +16735,7 @@ export const fifaData = [
     "MatchID": 300186514,
     "Home Team Initials": "SUI",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "20 Jun 2014 - 19:00",
     "Stage": "Group E",
@@ -17554,8 +16756,7 @@ export const fifaData = [
     "MatchID": 300186463,
     "Home Team Initials": "HON",
     "Away Team Initials": "ECU"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "21 Jun 2014 - 13:00",
     "Stage": "Group F",
@@ -17576,8 +16777,7 @@ export const fifaData = [
     "MatchID": 300186466,
     "Home Team Initials": "ARG",
     "Away Team Initials": "IRN"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "21 Jun 2014 - 16:00",
     "Stage": "Group G",
@@ -17598,8 +16798,7 @@ export const fifaData = [
     "MatchID": 300186493,
     "Home Team Initials": "GER",
     "Away Team Initials": "GHA"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "21 Jun 2014 - 18:00",
     "Stage": "Group F",
@@ -17620,8 +16819,7 @@ export const fifaData = [
     "MatchID": 300186511,
     "Home Team Initials": "NGA",
     "Away Team Initials": "BIH"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "22 Jun 2014 - 13:00",
     "Stage": "Group H",
@@ -17642,8 +16840,7 @@ export const fifaData = [
     "MatchID": 300186481,
     "Home Team Initials": "BEL",
     "Away Team Initials": "RUS"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "22 Jun 2014 - 16:00",
     "Stage": "Group H",
@@ -17664,8 +16861,7 @@ export const fifaData = [
     "MatchID": 300186495,
     "Home Team Initials": "KOR",
     "Away Team Initials": "ALG"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "22 Jun 2014 - 18:00",
     "Stage": "Group G",
@@ -17686,8 +16882,7 @@ export const fifaData = [
     "MatchID": 300186483,
     "Home Team Initials": "USA",
     "Away Team Initials": "POR"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "23 Jun 2014 - 13:00",
     "Stage": "Group B",
@@ -17708,8 +16903,7 @@ export const fifaData = [
     "MatchID": 300186467,
     "Home Team Initials": "AUS",
     "Away Team Initials": "ESP"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "23 Jun 2014 - 13:00",
     "Stage": "Group B",
@@ -17730,8 +16924,7 @@ export const fifaData = [
     "MatchID": 300186470,
     "Home Team Initials": "NED",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "23 Jun 2014 - 17:00",
     "Stage": "Group A",
@@ -17752,8 +16945,7 @@ export const fifaData = [
     "MatchID": 300186472,
     "Home Team Initials": "CMR",
     "Away Team Initials": "BRA"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "23 Jun 2014 - 17:00",
     "Stage": "Group A",
@@ -17774,8 +16966,7 @@ export const fifaData = [
     "MatchID": 300186452,
     "Home Team Initials": "CRO",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "24 Jun 2014 - 13:00",
     "Stage": "Group D",
@@ -17796,8 +16987,7 @@ export const fifaData = [
     "MatchID": 300186465,
     "Home Team Initials": "ITA",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "24 Jun 2014 - 13:00",
     "Stage": "Group D",
@@ -17818,8 +17008,7 @@ export const fifaData = [
     "MatchID": 300186484,
     "Home Team Initials": "CRC",
     "Away Team Initials": "ENG"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "24 Jun 2014 - 16:00",
     "Stage": "Group C",
@@ -17840,8 +17029,7 @@ export const fifaData = [
     "MatchID": 300186457,
     "Home Team Initials": "JPN",
     "Away Team Initials": "COL"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "24 Jun 2014 - 17:00",
     "Stage": "Group C",
@@ -17862,8 +17050,7 @@ export const fifaData = [
     "MatchID": 300186455,
     "Home Team Initials": "GRE",
     "Away Team Initials": "CIV"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "25 Jun 2014 - 13:00",
     "Stage": "Group F",
@@ -17884,8 +17071,7 @@ export const fifaData = [
     "MatchID": 300186458,
     "Home Team Initials": "NGA",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "25 Jun 2014 - 13:00",
     "Stage": "Group F",
@@ -17906,8 +17092,7 @@ export const fifaData = [
     "MatchID": 300186464,
     "Home Team Initials": "BIH",
     "Away Team Initials": "IRN"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "25 Jun 2014 - 16:00",
     "Stage": "Group E",
@@ -17928,8 +17113,7 @@ export const fifaData = [
     "MatchID": 300186482,
     "Home Team Initials": "HON",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "25 Jun 2014 - 17:00",
     "Stage": "Group E",
@@ -17950,8 +17134,7 @@ export const fifaData = [
     "MatchID": 300186515,
     "Home Team Initials": "ECU",
     "Away Team Initials": "FRA"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "26 Jun 2014 - 13:00",
     "Stage": "Group G",
@@ -17972,8 +17155,7 @@ export const fifaData = [
     "MatchID": 300186469,
     "Home Team Initials": "USA",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "26 Jun 2014 - 13:00",
     "Stage": "Group G",
@@ -17994,8 +17176,7 @@ export const fifaData = [
     "MatchID": 300186476,
     "Home Team Initials": "POR",
     "Away Team Initials": "GHA"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "26 Jun 2014 - 17:00",
     "Stage": "Group H",
@@ -18016,8 +17197,7 @@ export const fifaData = [
     "MatchID": 300186480,
     "Home Team Initials": "KOR",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "26 Jun 2014 - 17:00",
     "Stage": "Group H",
@@ -18038,8 +17218,7 @@ export const fifaData = [
     "MatchID": 300186506,
     "Home Team Initials": "ALG",
     "Away Team Initials": "RUS"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "28 Jun 2014 - 13:00",
     "Stage": "Round of 16",
@@ -18060,8 +17239,7 @@ export const fifaData = [
     "MatchID": 300186487,
     "Home Team Initials": "BRA",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "28 Jun 2014 - 17:00",
     "Stage": "Round of 16",
@@ -18082,8 +17260,7 @@ export const fifaData = [
     "MatchID": 300186491,
     "Home Team Initials": "COL",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "30 Jun 2014 - 13:00",
     "Stage": "Round of 16",
@@ -18104,8 +17281,7 @@ export const fifaData = [
     "MatchID": 300186462,
     "Home Team Initials": "FRA",
     "Away Team Initials": "NGA"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "30 Jun 2014 - 17:00",
     "Stage": "Round of 16",
@@ -18126,8 +17302,7 @@ export const fifaData = [
     "MatchID": 300186460,
     "Home Team Initials": "GER",
     "Away Team Initials": "ALG"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "04 Jul 2014 - 17:00",
     "Stage": "Quarter-finals",
@@ -18148,8 +17323,7 @@ export const fifaData = [
     "MatchID": 300186461,
     "Home Team Initials": "BRA",
     "Away Team Initials": "COL"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "04 Jul 2014 - 13:00",
     "Stage": "Quarter-finals",
@@ -18170,8 +17344,7 @@ export const fifaData = [
     "MatchID": 300186485,
     "Home Team Initials": "FRA",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "08 Jul 2014 - 17:00",
     "Stage": "Semi-finals",
@@ -18192,8 +17365,7 @@ export const fifaData = [
     "MatchID": 300186474,
     "Home Team Initials": "BRA",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "12 Jul 2014 - 17:00",
     "Stage": "Play-off for third place",
@@ -18214,8 +17386,7 @@ export const fifaData = [
     "MatchID": 300186502,
     "Home Team Initials": "BRA",
     "Away Team Initials": "NED"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "13 Jul 2014 - 16:00",
     "Stage": "Final",
@@ -18236,8 +17407,7 @@ export const fifaData = [
     "MatchID": 300186501,
     "Home Team Initials": "GER",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "09 Jul 2014 - 17:00",
     "Stage": "Semi-finals",
@@ -18258,8 +17428,7 @@ export const fifaData = [
     "MatchID": 300186490,
     "Home Team Initials": "NED",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "05 Jul 2014 - 17:00",
     "Stage": "Quarter-finals",
@@ -18280,8 +17449,7 @@ export const fifaData = [
     "MatchID": 300186488,
     "Home Team Initials": "NED",
     "Away Team Initials": "CRC"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "05 Jul 2014 - 13:00",
     "Stage": "Quarter-finals",
@@ -18302,8 +17470,7 @@ export const fifaData = [
     "MatchID": 300186504,
     "Home Team Initials": "ARG",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "29 Jun 2014 - 13:00",
     "Stage": "Round of 16",
@@ -18324,8 +17491,7 @@ export const fifaData = [
     "MatchID": 300186508,
     "Home Team Initials": "NED",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "29 Jun 2014 - 17:00",
     "Stage": "Round of 16",
@@ -18346,8 +17512,7 @@ export const fifaData = [
     "MatchID": 300186459,
     "Home Team Initials": "CRC",
     "Away Team Initials": "GRE"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "01 Jul 2014 - 13:00",
     "Stage": "Round of 16",
@@ -18368,8 +17533,7 @@ export const fifaData = [
     "MatchID": 300186503,
     "Home Team Initials": "ARG",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "01 Jul 2014 - 17:00",
     "Stage": "Round of 16",
@@ -18390,8 +17554,7 @@ export const fifaData = [
     "MatchID": 300186497,
     "Home Team Initials": "BEL",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "28 Jun 2014 - 13:00",
     "Stage": "Round of 16",
@@ -18412,8 +17575,7 @@ export const fifaData = [
     "MatchID": 300186487,
     "Home Team Initials": "BRA",
     "Away Team Initials": "CHI"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "28 Jun 2014 - 17:00",
     "Stage": "Round of 16",
@@ -18434,8 +17596,7 @@ export const fifaData = [
     "MatchID": 300186491,
     "Home Team Initials": "COL",
     "Away Team Initials": "URU"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "29 Jun 2014 - 13:00",
     "Stage": "Round of 16",
@@ -18456,8 +17617,7 @@ export const fifaData = [
     "MatchID": 300186508,
     "Home Team Initials": "NED",
     "Away Team Initials": "MEX"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "29 Jun 2014 - 17:00",
     "Stage": "Round of 16",
@@ -18478,8 +17638,7 @@ export const fifaData = [
     "MatchID": 300186459,
     "Home Team Initials": "CRC",
     "Away Team Initials": "GRE"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "30 Jun 2014 - 13:00",
     "Stage": "Round of 16",
@@ -18500,8 +17659,7 @@ export const fifaData = [
     "MatchID": 300186462,
     "Home Team Initials": "FRA",
     "Away Team Initials": "NGA"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "30 Jun 2014 - 17:00",
     "Stage": "Round of 16",
@@ -18522,8 +17680,7 @@ export const fifaData = [
     "MatchID": 300186460,
     "Home Team Initials": "GER",
     "Away Team Initials": "ALG"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "01 Jul 2014 - 13:00",
     "Stage": "Round of 16",
@@ -18544,8 +17701,7 @@ export const fifaData = [
     "MatchID": 300186503,
     "Home Team Initials": "ARG",
     "Away Team Initials": "SUI"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "01 Jul 2014 - 17:00",
     "Stage": "Round of 16",
@@ -18566,8 +17722,7 @@ export const fifaData = [
     "MatchID": 300186497,
     "Home Team Initials": "BEL",
     "Away Team Initials": "USA"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "04 Jul 2014 - 13:00",
     "Stage": "Quarter-finals",
@@ -18588,8 +17743,7 @@ export const fifaData = [
     "MatchID": 300186485,
     "Home Team Initials": "FRA",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "04 Jul 2014 - 17:00",
     "Stage": "Quarter-finals",
@@ -18610,8 +17764,7 @@ export const fifaData = [
     "MatchID": 300186461,
     "Home Team Initials": "BRA",
     "Away Team Initials": "COL"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "05 Jul 2014 - 13:00",
     "Stage": "Quarter-finals",
@@ -18632,8 +17785,7 @@ export const fifaData = [
     "MatchID": 300186504,
     "Home Team Initials": "ARG",
     "Away Team Initials": "BEL"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "05 Jul 2014 - 17:00",
     "Stage": "Quarter-finals",
@@ -18654,8 +17806,7 @@ export const fifaData = [
     "MatchID": 300186488,
     "Home Team Initials": "NED",
     "Away Team Initials": "CRC"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "08 Jul 2014 - 17:00",
     "Stage": "Semi-finals",
@@ -18676,8 +17827,7 @@ export const fifaData = [
     "MatchID": 300186474,
     "Home Team Initials": "BRA",
     "Away Team Initials": "GER"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "09 Jul 2014 - 17:00",
     "Stage": "Semi-finals",
@@ -18698,8 +17848,7 @@ export const fifaData = [
     "MatchID": 300186490,
     "Home Team Initials": "NED",
     "Away Team Initials": "ARG"
-  },
-  {
+}, {
     "Year": 2014,
     "Datetime": "12 Jul 2014 - 17:00",
     "Stage": "Play-off for third place",
@@ -18720,5 +17869,4 @@ export const fifaData = [
     "MatchID": 300186502,
     "Home Team Initials": "BRA",
     "Away Team Initials": "NED"
-  },
-]
+}, ]
